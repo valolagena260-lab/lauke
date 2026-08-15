@@ -4,7 +4,7 @@
     "name": "Somoy tv",
     "link": "https://owrcovcrpy.gpcdn.net/bpk-tv/1713/output/index.m3u8",
     "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1784629064327.png",
-    "cookie": "Edge-Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9vd3Jjb3ZjcnB5LmdwY2RuLm5ldC9icGstdHYvMTcxMy9vdXRwdXQvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiRWRnZVRpbWUiOjE3ODY4MDYwMTd9fX1dfQ;Edge-Signature=UjRgWLN1mNL~mUXY~6wtoR3RqBmDgSOdc7w98VBe77s;Edge-Key-Pair-Id=DEFAULT",
+    "cookie": "Edge-Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9vd3Jjb3ZjcnB5LmdwY2RuLm5ldC9icGstdHYvMTcxMy9vdXRwdXQvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiRWRnZVRpbWUiOjE3ODY4MTMyMTZ9fX1dfQ;Edge-Signature=lHWktbhE97cGNhqYkSEM2qJ4z4NZI818EXOFqFKJXdE;Edge-Key-Pair-Id=DEFAULT",
     "user_agent": "okhttp/4.11.0"
   },
   {
@@ -12,7 +12,7 @@
     "name": "Jamuna TV",
     "link": "https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/index.m3u8",
     "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1735560213832.png",
-    "cookie": "Edge-Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9vd3Jjb3ZjcnB5LmdwY2RuLm5ldC9icGstdHYvMTcwMS9vdXRwdXQvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiRWRnZVRpbWUiOjE3ODY4MDYwMTh9fX1dfQ;Edge-Signature=cqqN5ad7WKmJ8NNs-yIo7GGUOSPENI-70jhev5xSlbQ;Edge-Key-Pair-Id=DEFAULT",
+    "cookie": "Edge-Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9vd3Jjb3ZjcnB5LmdwY2RuLm5ldC9icGstdHYvMTcwMS9vdXRwdXQvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiRWRnZVRpbWUiOjE3ODY4MTMyMTh9fX1dfQ;Edge-Signature=gXcWnrvwOjo-qhBwCsifP3V9pBWBLPtW0reGlbTFey4;Edge-Key-Pair-Id=DEFAULT",
     "user_agent": "okhttp/4.11.0"
   },
   {
@@ -20,7 +20,7 @@
     "name": "Independent TV",
     "link": "https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/index.m3u8",
     "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1739964387847.png",
-    "cookie": "Edge-Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9vd3Jjb3ZjcnB5LmdwY2RuLm5ldC9icGstdHYvMTcwNC9vdXRwdXQvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiRWRnZVRpbWUiOjE3ODY4MDYwMjJ9fX1dfQ;Edge-Signature=3PWkiBjV52mmSM95rLbOhHpbZwXeuXqHc4zzx59O-lI;Edge-Key-Pair-Id=DEFAULT",
+    "cookie": "Edge-Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9vd3Jjb3ZjcnB5LmdwY2RuLm5ldC9icGstdHYvMTcwNC9vdXRwdXQvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiRWRnZVRpbWUiOjE3ODY4MTMyMjJ9fX1dfQ;Edge-Signature=wTnusCpgLH13XdGUpW9jpeWNQmG84OU5a2vA6HvQ0YA;Edge-Key-Pair-Id=DEFAULT",
     "user_agent": "okhttp/4.11.0"
   },
   {
@@ -28,7 +28,7 @@
     "name": "DBC News HD",
     "link": "https://owrcovcrpy.gpcdn.net/bpk-tv/1728/output/index.m3u8",
     "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1770186306600.png",
-    "cookie": "Edge-Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9vd3Jjb3ZjcnB5LmdwY2RuLm5ldC9icGstdHYvMTcyOC9vdXRwdXQvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiRWRnZVRpbWUiOjE3ODY4MDYwMjh9fX1dfQ;Edge-Signature=6lz34DhZ420XHVZy~rLKcyJ1DY3wReiAiyK~h6iIsLw;Edge-Key-Pair-Id=DEFAULT",
+    "cookie": "Edge-Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9vd3Jjb3ZjcnB5LmdwY2RuLm5ldC9icGstdHYvMTcyOC9vdXRwdXQvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiRWRnZVRpbWUiOjE3ODY4MTMyMjh9fX1dfQ;Edge-Signature=0TeT2aBlnOZjWiUbDubWRToXqO1~6CTW2RJ8G70Os7A;Edge-Key-Pair-Id=DEFAULT",
     "user_agent": "okhttp/4.11.0"
   },
   {
@@ -36,7 +36,7 @@
     "name": "BTV Shangshad",
     "link": "https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8",
     "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1773247382366.png",
-    "cookie": "Edge-Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9vd3Jjb3ZjcnB5LmdwY2RuLm5ldC9icGstdHYvMTcwOS9vdXRwdXQvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiRWRnZVRpbWUiOjE3ODY4MDYwMzF9fX1dfQ;Edge-Signature=WuI-PvKswm3Si8jAPSL2DuzovwzPHEf54Z-3dbSgdYQ;Edge-Key-Pair-Id=DEFAULT",
+    "cookie": "Edge-Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9vd3Jjb3ZjcnB5LmdwY2RuLm5ldC9icGstdHYvMTcwOS9vdXRwdXQvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiRWRnZVRpbWUiOjE3ODY4MTMyMzF9fX1dfQ;Edge-Signature=GcsZMUa1hT-bmdAtA53XGpec0WycUlgsj84NGQ0xa2k;Edge-Key-Pair-Id=DEFAULT",
     "user_agent": "okhttp/4.11.0"
   },
   {
@@ -44,7 +44,7 @@
     "name": "Ekattor HD",
     "link": "https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/index.m3u8",
     "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1739963327549.png",
-    "cookie": "Edge-Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9vd3Jjb3ZjcnB5LmdwY2RuLm5ldC9icGstdHYvMTcwNS9vdXRwdXQvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiRWRnZVRpbWUiOjE3ODY4MDYwMzJ9fX1dfQ;Edge-Signature=H8F2nZ6xbIBGVAMmIfg4aEWOP7XOxSbqr9n~9K0avWA;Edge-Key-Pair-Id=DEFAULT",
+    "cookie": "Edge-Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9vd3Jjb3ZjcnB5LmdwY2RuLm5ldC9icGstdHYvMTcwNS9vdXRwdXQvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiRWRnZVRpbWUiOjE3ODY4MTMyMzR9fX1dfQ;Edge-Signature=GgZpSSgbpeaOHW5pk7EgJsOdYdJuv1Zki0TXDSCyOV0;Edge-Key-Pair-Id=DEFAULT",
     "user_agent": "okhttp/4.11.0"
   },
   {
@@ -52,7 +52,7 @@
     "name": "Channel 24 HD",
     "link": "https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/index.m3u8",
     "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1735556516924.png",
-    "cookie": "Edge-Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9vd3Jjb3ZjcnB5LmdwY2RuLm5ldC9icGstdHYvMTcwMy9vdXRwdXQvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiRWRnZVRpbWUiOjE3ODY4MDYwMzN9fX1dfQ;Edge-Signature=CaNdsjzbFE2P3~xiTcNdxCO-7dSndRrSqvbtBZI~3Q4;Edge-Key-Pair-Id=DEFAULT",
+    "cookie": "Edge-Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9vd3Jjb3ZjcnB5LmdwY2RuLm5ldC9icGstdHYvMTcwMy9vdXRwdXQvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiRWRnZVRpbWUiOjE3ODY4MTMyMzV9fX1dfQ;Edge-Signature=LHiGGebrLzAibRwcq6OMXEcrs~7px~i3L~6-WyRM44E;Edge-Key-Pair-Id=DEFAULT",
     "user_agent": "okhttp/4.11.0"
   },
   {
@@ -60,7 +60,7 @@
     "name": "BTV",
     "link": "https://owrcovcrpy.gpcdn.net/bpk-tv/1725/output/index.m3u8",
     "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1784629845642.png",
-    "cookie": "Edge-Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9vd3Jjb3ZjcnB5LmdwY2RuLm5ldC9icGstdHYvMTcyNS9vdXRwdXQvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiRWRnZVRpbWUiOjE3ODY4MDYwMzV9fX1dfQ;Edge-Signature=-q4VDeaA1oDlFWq0Jr5DRP1P3F4rAdReUy2JMKi~a5I;Edge-Key-Pair-Id=DEFAULT",
+    "cookie": "Edge-Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9vd3Jjb3ZjcnB5LmdwY2RuLm5ldC9icGstdHYvMTcyNS9vdXRwdXQvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiRWRnZVRpbWUiOjE3ODY4MTMyMzd9fX1dfQ;Edge-Signature=uPxTHqoWLY25VPsd6FxJ3n3JFifPMGCKC6IhfrKUPYk;Edge-Key-Pair-Id=DEFAULT",
     "user_agent": "okhttp/4.11.0"
   },
   {
@@ -68,7 +68,7 @@
     "name": "Maasranga TV",
     "link": "https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/index.m3u8",
     "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1773680325498.png",
-    "cookie": "Edge-Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9vd3Jjb3ZjcnB5LmdwY2RuLm5ldC9icGstdHYvMTcyMi9vdXRwdXQvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiRWRnZVRpbWUiOjE3ODY4MDYwMzZ9fX1dfQ;Edge-Signature=MpW2muutdkfy1I4Ljk4bweL08j1nP--Y31lL1ZVMRNU;Edge-Key-Pair-Id=DEFAULT",
+    "cookie": "Edge-Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9vd3Jjb3ZjcnB5LmdwY2RuLm5ldC9icGstdHYvMTcyMi9vdXRwdXQvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiRWRnZVRpbWUiOjE3ODY4MTMyMzl9fX1dfQ;Edge-Signature=Y7V3jdPywNM5kVH8lTn~GThDo-BKiBu23~zFj1YaDJI;Edge-Key-Pair-Id=DEFAULT",
     "user_agent": "okhttp/4.11.0"
   },
   {
@@ -76,7 +76,7 @@
     "name": "Crazy Ex",
     "link": "https://nomawnoijl.gpcdn.net/akash/crazy_ex/playlist.m3u8",
     "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1770348753896.png",
-    "cookie": "Edge-Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9ub21hd25vaWpsLmdwY2RuLm5ldC9ha2FzaC9jcmF6eV9leC8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJFZGdlVGltZSI6MTc4NjgwNjAzOX19fV19;Edge-Signature=neocFFX8RgZ25PpfEHBLa1RIQLAYxyaykn-Fxj53urc;Edge-Key-Pair-Id=DEFAULT",
+    "cookie": "Edge-Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9ub21hd25vaWpsLmdwY2RuLm5ldC9ha2FzaC9jcmF6eV9leC8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJFZGdlVGltZSI6MTc4NjgxMzI0MX19fV19;Edge-Signature=-cxdIPylroAqIa3Okj5IP-oZRngs6qiUh9-fpXXbf18;Edge-Key-Pair-Id=DEFAULT",
     "user_agent": "okhttp/4.11.0"
   },
   {
@@ -84,7 +84,7 @@
     "name": "Sports Range",
     "link": "https://nomawnoijl.gpcdn.net/akash/sportrange/playlist.m3u8",
     "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1770380601958.png",
-    "cookie": "Edge-Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9ub21hd25vaWpsLmdwY2RuLm5ldC9ha2FzaC9zcG9ydHJhbmdlLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkVkZ2VUaW1lIjoxNzg2ODA2MDQwfX19XX0;Edge-Signature=lqtjKahfQ3WOIeDS69xaCxdqmOtmg-Jk5A3ww2GSqk8;Edge-Key-Pair-Id=DEFAULT",
+    "cookie": "Edge-Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9ub21hd25vaWpsLmdwY2RuLm5ldC9ha2FzaC9zcG9ydHJhbmdlLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkVkZ2VUaW1lIjoxNzg2ODEzMjQzfX19XX0;Edge-Signature=7ao0twtJPozJAHOoqw6U9O~mNAU4k71aFc128oLIDFM;Edge-Key-Pair-Id=DEFAULT",
     "user_agent": "okhttp/4.11.0"
   },
   {
@@ -92,7 +92,7 @@
     "name": "ATN News",
     "link": "https://owrcovcrpy.gpcdn.net/bpk-tv/1706/output/index.m3u8",
     "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1739962961772.png",
-    "cookie": "Edge-Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9vd3Jjb3ZjcnB5LmdwY2RuLm5ldC9icGstdHYvMTcwNi9vdXRwdXQvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiRWRnZVRpbWUiOjE3ODY4MDYwNDJ9fX1dfQ;Edge-Signature=dFeUrzEz2BUBhY~x9qMex1txsuvCYhJeeesu6Yy6h7E;Edge-Key-Pair-Id=DEFAULT",
+    "cookie": "Edge-Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9vd3Jjb3ZjcnB5LmdwY2RuLm5ldC9icGstdHYvMTcwNi9vdXRwdXQvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiRWRnZVRpbWUiOjE3ODY4MTMyNDR9fX1dfQ;Edge-Signature=9~qwy96UsysjAn~Xtg2mgLTjn5BQ0KruOwtVXdqtbpU;Edge-Key-Pair-Id=DEFAULT",
     "user_agent": "okhttp/4.11.0"
   },
   {
@@ -100,7 +100,7 @@
     "name": "Channel 9 HD",
     "link": "https://owrcovcrpy.gpcdn.net/bpk-tv/1729/output/index.m3u8",
     "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1770188008067.png",
-    "cookie": "Edge-Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9vd3Jjb3ZjcnB5LmdwY2RuLm5ldC9icGstdHYvMTcyOS9vdXRwdXQvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiRWRnZVRpbWUiOjE3ODY4MDYwNDV9fX1dfQ;Edge-Signature=t3tkZki6r3SdmMfBbuhSQXQCu0V2QGIsSfv0iMoGFPI;Edge-Key-Pair-Id=DEFAULT",
+    "cookie": "Edge-Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9vd3Jjb3ZjcnB5LmdwY2RuLm5ldC9icGstdHYvMTcyOS9vdXRwdXQvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiRWRnZVRpbWUiOjE3ODY4MTMyNDd9fX1dfQ;Edge-Signature=jvtfoXODcQve2Br09sutpcJ9ZVSzhDqUmKVniHPHxRs;Edge-Key-Pair-Id=DEFAULT",
     "user_agent": "okhttp/4.11.0"
   },
   {
@@ -108,7 +108,7 @@
     "name": "News 24 HD",
     "link": "https://owrcovcrpy.gpcdn.net/bpk-tv/1708/output/index.m3u8",
     "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1770186895850.png",
-    "cookie": "Edge-Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9vd3Jjb3ZjcnB5LmdwY2RuLm5ldC9icGstdHYvMTcwOC9vdXRwdXQvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiRWRnZVRpbWUiOjE3ODY4MDYwNDd9fX1dfQ;Edge-Signature=j31zv1Sj0ITVQ~6I8tLUSOxAMZmtVsxhHIDutNQ~07k;Edge-Key-Pair-Id=DEFAULT",
+    "cookie": "Edge-Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9vd3Jjb3ZjcnB5LmdwY2RuLm5ldC9icGstdHYvMTcwOC9vdXRwdXQvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiRWRnZVRpbWUiOjE3ODY4MTMyNDl9fX1dfQ;Edge-Signature=gR6OgcWnBg--HhhFaKO5-WGNQwSjMAMY1-Cjk-PHR5k;Edge-Key-Pair-Id=DEFAULT",
     "user_agent": "okhttp/4.11.0"
   },
   {
@@ -116,7 +116,7 @@
     "name": "Deepto TV HD",
     "link": "https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/index.m3u8",
     "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1742713000749.png",
-    "cookie": "Edge-Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9vd3Jjb3ZjcnB5LmdwY2RuLm5ldC9icGstdHYvMTcxMS9vdXRwdXQvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiRWRnZVRpbWUiOjE3ODY4MDYwNDh9fX1dfQ;Edge-Signature=2CnMdVuQs8GlCi0jEB8npNl0eyveBcV97kQ-5okAw1k;Edge-Key-Pair-Id=DEFAULT",
+    "cookie": "Edge-Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9vd3Jjb3ZjcnB5LmdwY2RuLm5ldC9icGstdHYvMTcxMS9vdXRwdXQvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiRWRnZVRpbWUiOjE3ODY4MTMyNTB9fX1dfQ;Edge-Signature=XhTyZu~-XE2p~HMkK0Ru0RBe6R-KlhhwFX3p37ewAPs;Edge-Key-Pair-Id=DEFAULT",
     "user_agent": "okhttp/4.11.0"
   },
   {
@@ -124,7 +124,7 @@
     "name": "NTV",
     "link": "https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8",
     "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1735560841094.png",
-    "cookie": "Edge-Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9vd3Jjb3ZjcnB5LmdwY2RuLm5ldC9icGstdHYvMTcxNi9vdXRwdXQvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiRWRnZVRpbWUiOjE3ODY4MDYwNTB9fX1dfQ;Edge-Signature=sabdKRrhjCKTmti041UZ0quW0bu9YBC6lECxQ7UJymU;Edge-Key-Pair-Id=DEFAULT",
+    "cookie": "Edge-Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9vd3Jjb3ZjcnB5LmdwY2RuLm5ldC9icGstdHYvMTcxNi9vdXRwdXQvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiRWRnZVRpbWUiOjE3ODY4MTMyNTJ9fX1dfQ;Edge-Signature=d6K1ktlaE93~i0LhcVvYuA2HorwloUEDjf7yn1hjUXo;Edge-Key-Pair-Id=DEFAULT",
     "user_agent": "okhttp/4.11.0"
   },
   {
@@ -132,7 +132,7 @@
     "name": "Al Jazeera",
     "link": "https://owrcovcrpy.gpcdn.net/bpk-tv/1721/output/index.m3u8",
     "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1735547218986.png",
-    "cookie": "Edge-Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9vd3Jjb3ZjcnB5LmdwY2RuLm5ldC9icGstdHYvMTcyMS9vdXRwdXQvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiRWRnZVRpbWUiOjE3ODY4MDYwNTF9fX1dfQ;Edge-Signature=v3Rvg0Hn35nklPmllJT~4YFXZYARY0GkJDeK2R~d4E4;Edge-Key-Pair-Id=DEFAULT",
+    "cookie": "Edge-Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9vd3Jjb3ZjcnB5LmdwY2RuLm5ldC9icGstdHYvMTcyMS9vdXRwdXQvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiRWRnZVRpbWUiOjE3ODY4MTMyNTR9fX1dfQ;Edge-Signature=Vxy2mqOYyXtqdqj5ckaNfR1NqwXCzKlsLLiP3fWrnuM;Edge-Key-Pair-Id=DEFAULT",
     "user_agent": "okhttp/4.11.0"
   },
   {
@@ -140,7 +140,7 @@
     "name": "Channel I HD",
     "link": "https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/index.m3u8",
     "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1740567626692.png",
-    "cookie": "Edge-Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9vd3Jjb3ZjcnB5LmdwY2RuLm5ldC9icGstdHYvMTcyMy9vdXRwdXQvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiRWRnZVRpbWUiOjE3ODY4MDYwNTJ9fX1dfQ;Edge-Signature=-u6Mw90K8dz3tBUKbqgVlg8Fj1kAo9Xm2dEkLdvPiQg;Edge-Key-Pair-Id=DEFAULT",
+    "cookie": "Edge-Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9vd3Jjb3ZjcnB5LmdwY2RuLm5ldC9icGstdHYvMTcyMy9vdXRwdXQvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiRWRnZVRpbWUiOjE3ODY4MTMyNTV9fX1dfQ;Edge-Signature=13Sgub4MAPvMIPPzpXNUXI5nYlHHvKxdwQCTlfJZd7c;Edge-Key-Pair-Id=DEFAULT",
     "user_agent": "okhttp/4.11.0"
   },
   {
@@ -148,7 +148,7 @@
     "name": "Bangla Vision",
     "link": "https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/index.m3u8",
     "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1735561344354.png",
-    "cookie": "Edge-Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9vd3Jjb3ZjcnB5LmdwY2RuLm5ldC9icGstdHYvMTcxNS9vdXRwdXQvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiRWRnZVRpbWUiOjE3ODY4MDYwNTR9fX1dfQ;Edge-Signature=1TfQ6c0cM-StqJYO5NiWtFYYnqWmD6cC40u9rfR8rpA;Edge-Key-Pair-Id=DEFAULT",
+    "cookie": "Edge-Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9vd3Jjb3ZjcnB5LmdwY2RuLm5ldC9icGstdHYvMTcxNS9vdXRwdXQvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiRWRnZVRpbWUiOjE3ODY4MTMyNTh9fX1dfQ;Edge-Signature=H1xi8EjFKhcMi1JFZOdHkeQxOEsj~PHcWHQ-ZXdNL5M;Edge-Key-Pair-Id=DEFAULT",
     "user_agent": "okhttp/4.11.0"
   },
   {
@@ -156,7 +156,7 @@
     "name": "Sports Legends",
     "link": "https://nomawnoijl.gpcdn.net/akash/sportslegends/playlist.m3u8",
     "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1770377900139.png",
-    "cookie": "Edge-Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9ub21hd25vaWpsLmdwY2RuLm5ldC9ha2FzaC9zcG9ydHNsZWdlbmRzLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkVkZ2VUaW1lIjoxNzg2ODA2MDU2fX19XX0;Edge-Signature=-Vg~wdTD4BOoQlM5wj8YLh6fQSGNU5ztAPPSxV3J0GA;Edge-Key-Pair-Id=DEFAULT",
+    "cookie": "Edge-Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9ub21hd25vaWpsLmdwY2RuLm5ldC9ha2FzaC9zcG9ydHNsZWdlbmRzLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkVkZ2VUaW1lIjoxNzg2ODEzMjU5fX19XX0;Edge-Signature=3q2Vf6QuQ6L32B0LLirO2adKCN-dy0apJ3zEihVasLU;Edge-Key-Pair-Id=DEFAULT",
     "user_agent": "okhttp/4.11.0"
   },
   {
@@ -164,7 +164,7 @@
     "name": "Party Universe",
     "link": "https://nomawnoijl.gpcdn.net/akash/partyuniverse/playlist.m3u8",
     "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1770378215384.png",
-    "cookie": "Edge-Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9ub21hd25vaWpsLmdwY2RuLm5ldC9ha2FzaC9wYXJ0eXVuaXZlcnNlLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkVkZ2VUaW1lIjoxNzg2ODA2MDU5fX19XX0;Edge-Signature=0R3pVvOIImD~NPpHSlVVmUWCVfZX7gYbHQrlDbAfW3I;Edge-Key-Pair-Id=DEFAULT",
+    "cookie": "Edge-Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9ub21hd25vaWpsLmdwY2RuLm5ldC9ha2FzaC9wYXJ0eXVuaXZlcnNlLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkVkZ2VUaW1lIjoxNzg2ODEzMjYzfX19XX0;Edge-Signature=vU-Fkfw7jPg6XGcZqMbHjuf90zZOqFiOiLhiDae9zsM;Edge-Key-Pair-Id=DEFAULT",
     "user_agent": "okhttp/4.11.0"
   },
   {
@@ -172,7 +172,7 @@
     "name": "Thunder Er",
     "link": "https://nomawnoijl.gpcdn.net/akash/thunder/playlist.m3u8",
     "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1770380791303.png",
-    "cookie": "Edge-Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9ub21hd25vaWpsLmdwY2RuLm5ldC9ha2FzaC90aHVuZGVyLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkVkZ2VUaW1lIjoxNzg2ODA2MDYxfX19XX0;Edge-Signature=neLFXS32w570vI6rWKfvqMaGrPMXbkmKatiNXQ-FjPs;Edge-Key-Pair-Id=DEFAULT",
+    "cookie": "Edge-Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9ub21hd25vaWpsLmdwY2RuLm5ldC9ha2FzaC90aHVuZGVyLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkVkZ2VUaW1lIjoxNzg2ODEzMjY0fX19XX0;Edge-Signature=ss7FiZ7POfXynZq~SHL3oRQIM~vpbyDrFy0kOuh2d~0;Edge-Key-Pair-Id=DEFAULT",
     "user_agent": "okhttp/4.11.0"
   },
   {
@@ -180,7 +180,7 @@
     "name": "Fighters",
     "link": "https://nomawnoijl.gpcdn.net/akash/fighter/playlist.m3u8",
     "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1770380942670.png",
-    "cookie": "Edge-Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9ub21hd25vaWpsLmdwY2RuLm5ldC9ha2FzaC9maWdodGVyLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkVkZ2VUaW1lIjoxNzg2ODA2MDYyfX19XX0;Edge-Signature=I-A3a2eLIS6ZgexLd37R1JsBID3xm80jM0-q5UOpZ7Y;Edge-Key-Pair-Id=DEFAULT",
+    "cookie": "Edge-Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9ub21hd25vaWpsLmdwY2RuLm5ldC9ha2FzaC9maWdodGVyLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkVkZ2VUaW1lIjoxNzg2ODEzMjY1fX19XX0;Edge-Signature=7yHj39wV~7Ds6wh4cPYoKoi70CaqUnzGsXhmMR~~uAY;Edge-Key-Pair-Id=DEFAULT",
     "user_agent": "okhttp/4.11.0"
   },
   {
@@ -188,7 +188,7 @@
     "name": "Flash Guys HD",
     "link": "https://nomawnoijl.gpcdn.net/akash/flashguys/playlist.m3u8",
     "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1770378074527.png",
-    "cookie": "Edge-Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9ub21hd25vaWpsLmdwY2RuLm5ldC9ha2FzaC9mbGFzaGd1eXMvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiRWRnZVRpbWUiOjE3ODY4MDYwNjN9fX1dfQ;Edge-Signature=-dLp3dQaZkUFYkamD09U4mwKZjtcAhcfJJWqYwHCSSs;Edge-Key-Pair-Id=DEFAULT",
+    "cookie": "Edge-Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9ub21hd25vaWpsLmdwY2RuLm5ldC9ha2FzaC9mbGFzaGd1eXMvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiRWRnZVRpbWUiOjE3ODY4MTMyNjd9fX1dfQ;Edge-Signature=LsVO1PZcN-K20F-iuTozFLue6yLq164ihbXNXoPgFKE;Edge-Key-Pair-Id=DEFAULT",
     "user_agent": "okhttp/4.11.0"
   },
   {
@@ -196,7 +196,7 @@
     "name": "Nikki",
     "link": "https://nomawnoijl.gpcdn.net/akash/nikky/playlist.m3u8",
     "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1770378704923.png",
-    "cookie": "Edge-Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9ub21hd25vaWpsLmdwY2RuLm5ldC9ha2FzaC9uaWtreS8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJFZGdlVGltZSI6MTc4NjgwNjA2Nn19fV19;Edge-Signature=3NMoA0JDCdTt2vxm4XOSSOtWH~1HFbgqGEDoQ97pTWE;Edge-Key-Pair-Id=DEFAULT",
+    "cookie": "Edge-Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9ub21hd25vaWpsLmdwY2RuLm5ldC9ha2FzaC9uaWtreS8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJFZGdlVGltZSI6MTc4NjgxMzI3MH19fV19;Edge-Signature=SDSEWrrPtbvVaZ3VIerBigpiyNekrPE2wdl5IoM5dNA;Edge-Key-Pair-Id=DEFAULT",
     "user_agent": "okhttp/4.11.0"
   },
   {
@@ -204,7 +204,7 @@
     "name": "Channel 1",
     "link": "https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8",
     "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1781163068414.png",
-    "cookie": "Edge-Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9vd3Jjb3ZjcnB5LmdwY2RuLm5ldC9icGstdHYvMTcwMi9vdXRwdXQvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiRWRnZVRpbWUiOjE3ODY4MDYwNjh9fX1dfQ;Edge-Signature=chLmW8J0aOv559KYLZJvxIV4zXh2OgIsBXSYSuahSM0;Edge-Key-Pair-Id=DEFAULT",
+    "cookie": "Edge-Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9vd3Jjb3ZjcnB5LmdwY2RuLm5ldC9icGstdHYvMTcwMi9vdXRwdXQvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiRWRnZVRpbWUiOjE3ODY4MTMyNzR9fX1dfQ;Edge-Signature=BQ7rhQ45AWe8QxZRE5vVMUopgujaDa76mFEVgcr4AyQ;Edge-Key-Pair-Id=DEFAULT",
     "user_agent": "okhttp/4.11.0"
   },
   {
@@ -212,7 +212,7 @@
     "name": "Originals",
     "link": "https://nomawnoijl.gpcdn.net/akash/originals/playlist.m3u8",
     "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1770313122372.png",
-    "cookie": "Edge-Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9ub21hd25vaWpsLmdwY2RuLm5ldC9ha2FzaC9vcmlnaW5hbHMvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiRWRnZVRpbWUiOjE3ODY4MDYwNjl9fX1dfQ;Edge-Signature=9BhwLpDC-WRmROAqJ7AXwFsZXDfF1TpS8A-bgzaKTDU;Edge-Key-Pair-Id=DEFAULT",
+    "cookie": "Edge-Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9ub21hd25vaWpsLmdwY2RuLm5ldC9ha2FzaC9vcmlnaW5hbHMvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiRWRnZVRpbWUiOjE3ODY4MTMyNzV9fX1dfQ;Edge-Signature=6v9OLSc~Luj0v5TR7GD~xfi-gEdg1hJvluigw8ZKDzk;Edge-Key-Pair-Id=DEFAULT",
     "user_agent": "okhttp/4.11.0"
   },
   {
@@ -220,7 +220,7 @@
     "name": "Joy",
     "link": "https://nomawnoijl.gpcdn.net/akash/joy/playlist.m3u8",
     "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1770378874717.png",
-    "cookie": "Edge-Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9ub21hd25vaWpsLmdwY2RuLm5ldC9ha2FzaC9qb3kvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiRWRnZVRpbWUiOjE3ODY4MDYwNzB9fX1dfQ;Edge-Signature=3h7m9r2Ry9RwhVakfkk4MZpzIqWK-zP3KNc6Y4o~cI4;Edge-Key-Pair-Id=DEFAULT",
+    "cookie": "Edge-Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9ub21hd25vaWpsLmdwY2RuLm5ldC9ha2FzaC9qb3kvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiRWRnZVRpbWUiOjE3ODY4MTMyNzZ9fX1dfQ;Edge-Signature=ZZvvrqp~jfd6ds9wwLoAohNGzVuFXRwVLS7DIdEx7h8;Edge-Key-Pair-Id=DEFAULT",
     "user_agent": "okhttp/4.11.0"
   },
   {
@@ -228,7 +228,7 @@
     "name": "Delicious",
     "link": "https://nomawnoijl.gpcdn.net/akash/delicious/playlist.m3u8",
     "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1770378370876.png",
-    "cookie": "Edge-Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9ub21hd25vaWpsLmdwY2RuLm5ldC9ha2FzaC9kZWxpY2lvdXMvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiRWRnZVRpbWUiOjE3ODY4MDYwNzJ9fX1dfQ;Edge-Signature=UysMrxeHMFQ6-AFDuf4yYYvHNYQIDnuzWRca9529m-Q;Edge-Key-Pair-Id=DEFAULT",
+    "cookie": "Edge-Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9ub21hd25vaWpsLmdwY2RuLm5ldC9ha2FzaC9kZWxpY2lvdXMvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiRWRnZVRpbWUiOjE3ODY4MTMyNzh9fX1dfQ;Edge-Signature=H2HZtLOGdWtQjWAjRoUmcgPa5jXR8sb-GIE8vdA3TzU;Edge-Key-Pair-Id=DEFAULT",
     "user_agent": "okhttp/4.11.0"
   },
   {
@@ -236,7 +236,7 @@
     "name": "Funny Junior HD",
     "link": "https://nomawnoijl.gpcdn.net/akash/funnyjunior/playlist.m3u8",
     "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1770379573329.png",
-    "cookie": "Edge-Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9ub21hd25vaWpsLmdwY2RuLm5ldC9ha2FzaC9mdW5ueWp1bmlvci8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJFZGdlVGltZSI6MTc4NjgwNjA3M319fV19;Edge-Signature=Gm7pK9PsLC1pI6S3fX44nD7fspmh6hPfcs7SfIaLZVk;Edge-Key-Pair-Id=DEFAULT",
+    "cookie": "Edge-Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9ub21hd25vaWpsLmdwY2RuLm5ldC9ha2FzaC9mdW5ueWp1bmlvci8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJFZGdlVGltZSI6MTc4NjgxMzI4MH19fV19;Edge-Signature=S5qKXvA44ZQ0npJ8BinFM52cvvRpKGesu-DRMLYSQOc;Edge-Key-Pair-Id=DEFAULT",
     "user_agent": "okhttp/4.11.0"
   },
   {
@@ -244,7 +244,7 @@
     "name": "Kids Stars",
     "link": "https://nomawnoijl.gpcdn.net/akash/kidsstars/playlist.m3u8",
     "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1770381398090.png",
-    "cookie": "Edge-Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9ub21hd25vaWpsLmdwY2RuLm5ldC9ha2FzaC9raWRzc3RhcnMvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiRWRnZVRpbWUiOjE3ODY4MDYwNzR9fX1dfQ;Edge-Signature=Tey~oLEf1Lx0Yy22f5oeTHmKIXdSnuux6TQwC6bDzQA;Edge-Key-Pair-Id=DEFAULT",
+    "cookie": "Edge-Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9ub21hd25vaWpsLmdwY2RuLm5ldC9ha2FzaC9raWRzc3RhcnMvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiRWRnZVRpbWUiOjE3ODY4MTMyODF9fX1dfQ;Edge-Signature=4CbQ-PRXaGgNpPAk3JrI5dmGsMInBhXfWfRUOI9sChY;Edge-Key-Pair-Id=DEFAULT",
     "user_agent": "okhttp/4.11.0"
   },
   {
@@ -252,7 +252,7 @@
     "name": "Cineedge HD",
     "link": "https://nomawnoijl.gpcdn.net/akash/cineedge/playlist.m3u8",
     "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1770347851305.png",
-    "cookie": "Edge-Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9ub21hd25vaWpsLmdwY2RuLm5ldC9ha2FzaC9jaW5lZWRnZS8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJFZGdlVGltZSI6MTc4NjgwNjA3Nn19fV19;Edge-Signature=egD1-0SyRhppq1WvUrNGFc9CTvBNbVPHHbDR6e21zQ4;Edge-Key-Pair-Id=DEFAULT",
+    "cookie": "Edge-Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9ub21hd25vaWpsLmdwY2RuLm5ldC9ha2FzaC9jaW5lZWRnZS8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJFZGdlVGltZSI6MTc4NjgxMzI4M319fV19;Edge-Signature=eCt7CJ9SAyOC3OlgfwITnRVd-efwMzjRxk56CK6e3s0;Edge-Key-Pair-Id=DEFAULT",
     "user_agent": "okhttp/4.11.0"
   },
   {
@@ -260,7 +260,7 @@
     "name": "Crimes",
     "link": "https://nomawnoijl.gpcdn.net/akash/crimes/playlist.m3u8",
     "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1770380126540.png",
-    "cookie": "Edge-Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9ub21hd25vaWpsLmdwY2RuLm5ldC9ha2FzaC9jcmltZXMvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiRWRnZVRpbWUiOjE3ODY4MDYwNzh9fX1dfQ;Edge-Signature=snsLdESyBbuPkhYT731GlF4te-VxlJYI68pxJO~mxT8;Edge-Key-Pair-Id=DEFAULT",
+    "cookie": "Edge-Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9ub21hd25vaWpsLmdwY2RuLm5ldC9ha2FzaC9jcmltZXMvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiRWRnZVRpbWUiOjE3ODY4MTMyODR9fX1dfQ;Edge-Signature=D0kwhSMfZkUNNg-ucf~L3taE4u8a5qXP4gOeTrPzjkc;Edge-Key-Pair-Id=DEFAULT",
     "user_agent": "okhttp/4.11.0"
   },
   {
@@ -268,7 +268,7 @@
     "name": "Screem",
     "link": "https://nomawnoijl.gpcdn.net/akash/screem/playlist.m3u8",
     "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1770312098339.png",
-    "cookie": "Edge-Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9ub21hd25vaWpsLmdwY2RuLm5ldC9ha2FzaC9zY3JlZW0vKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiRWRnZVRpbWUiOjE3ODY4MDYwNzl9fX1dfQ;Edge-Signature=ZQ~Mp8tKIBioEK3Pb7M2vNjvlSfBsehu~yTacKAVrSQ;Edge-Key-Pair-Id=DEFAULT",
+    "cookie": "Edge-Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9ub21hd25vaWpsLmdwY2RuLm5ldC9ha2FzaC9zY3JlZW0vKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiRWRnZVRpbWUiOjE3ODY4MTMyODZ9fX1dfQ;Edge-Signature=bAQm6ckHyt~qVcuI63U-wNQUGLPa4EeqOucwDf0kbgQ;Edge-Key-Pair-Id=DEFAULT",
     "user_agent": "okhttp/4.11.0"
   },
   {
@@ -276,7 +276,7 @@
     "name": "Superrix HD",
     "link": "https://nomawnoijl.gpcdn.net/akash/superrix/playlist.m3u8",
     "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1770348388925.png",
-    "cookie": "Edge-Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9ub21hd25vaWpsLmdwY2RuLm5ldC9ha2FzaC9zdXBlcnJpeC8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJFZGdlVGltZSI6MTc4NjgwNjA4MX19fV19;Edge-Signature=z6Nj8iRk6P2GjXqNoB-tmFimhYhCjYdr1PBEKUlhkkg;Edge-Key-Pair-Id=DEFAULT",
+    "cookie": "Edge-Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9ub21hd25vaWpsLmdwY2RuLm5ldC9ha2FzaC9zdXBlcnJpeC8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJFZGdlVGltZSI6MTc4NjgxMzI4N319fV19;Edge-Signature=5eb7qDAGjnQzph-TkZ4PPf0JfsWXZNv4iQtSG2NLplY;Edge-Key-Pair-Id=DEFAULT",
     "user_agent": "okhttp/4.11.0"
   },
   {
@@ -284,7 +284,7 @@
     "name": "Uniques HD",
     "link": "https://nomawnoijl.gpcdn.net/akash/uniques/playlist.m3u8",
     "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1770347327658.png",
-    "cookie": "Edge-Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9ub21hd25vaWpsLmdwY2RuLm5ldC9ha2FzaC91bmlxdWVzLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkVkZ2VUaW1lIjoxNzg2ODA2MDgyfX19XX0;Edge-Signature=k5BkQvvrLwfeinyVstF-WwLjuFUPpEggXyN3LztYRjc;Edge-Key-Pair-Id=DEFAULT",
+    "cookie": "Edge-Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9ub21hd25vaWpsLmdwY2RuLm5ldC9ha2FzaC91bmlxdWVzLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkVkZ2VUaW1lIjoxNzg2ODEzMjg5fX19XX0;Edge-Signature=RNoUt2qyRNKEKQ9aeCJZwk0jsLqJcrVeOnQ1I25W~vA;Edge-Key-Pair-Id=DEFAULT",
     "user_agent": "okhttp/4.11.0"
   },
   {
@@ -292,7 +292,7 @@
     "name": "BuddyStar HD",
     "link": "https://nomawnoijl.gpcdn.net/akash/buddystar/playlist.m3u8",
     "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1770379038530.png",
-    "cookie": "Edge-Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9ub21hd25vaWpsLmdwY2RuLm5ldC9ha2FzaC9idWRkeXN0YXIvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiRWRnZVRpbWUiOjE3ODY4MDYwODR9fX1dfQ;Edge-Signature=miLxLIGfL01CbpKd1kwTq5XLpbTzyQPFR8koyU80LSE;Edge-Key-Pair-Id=DEFAULT",
+    "cookie": "Edge-Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9ub21hd25vaWpsLmdwY2RuLm5ldC9ha2FzaC9idWRkeXN0YXIvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiRWRnZVRpbWUiOjE3ODY4MTMyOTB9fX1dfQ;Edge-Signature=9pzOYnEyJIeLOxG4xibBZ09Ru08qNn9qCAMfnKyiiAQ;Edge-Key-Pair-Id=DEFAULT",
     "user_agent": "okhttp/4.11.0"
   },
   {
@@ -300,7 +300,7 @@
     "name": "Lucky Family",
     "link": "https://nomawnoijl.gpcdn.net/akash/luckyfamily/playlist.m3u8",
     "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1770381248531.png",
-    "cookie": "Edge-Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9ub21hd25vaWpsLmdwY2RuLm5ldC9ha2FzaC9sdWNreWZhbWlseS8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJFZGdlVGltZSI6MTc4NjgwNjA4NX19fV19;Edge-Signature=wFgfQhls8AmARrIZ8ltFtAaPZDwbfs3hZkFtHfrpYCs;Edge-Key-Pair-Id=DEFAULT",
+    "cookie": "Edge-Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9ub21hd25vaWpsLmdwY2RuLm5ldC9ha2FzaC9sdWNreWZhbWlseS8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJFZGdlVGltZSI6MTc4NjgxMzI5Mn19fV19;Edge-Signature=miIIyOdtuuH8RKO~LhOpqvuKtB-JKYHNNgk7RSdJ0pc;Edge-Key-Pair-Id=DEFAULT",
     "user_agent": "okhttp/4.11.0"
   },
   {
@@ -308,7 +308,7 @@
     "name": "Smarty",
     "link": "https://nomawnoijl.gpcdn.net/akash/smarty/playlist.m3u8",
     "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1770381107924.png",
-    "cookie": "Edge-Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9ub21hd25vaWpsLmdwY2RuLm5ldC9ha2FzaC9zbWFydHkvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiRWRnZVRpbWUiOjE3ODY4MDYwODZ9fX1dfQ;Edge-Signature=TJahRae-bKHTnGQ5EFvpBs8NVOjs7a-0KzCON-iChKc;Edge-Key-Pair-Id=DEFAULT",
+    "cookie": "Edge-Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9ub21hd25vaWpsLmdwY2RuLm5ldC9ha2FzaC9zbWFydHkvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiRWRnZVRpbWUiOjE3ODY4MTMyOTR9fX1dfQ;Edge-Signature=D1irNZeQ3UwhvvPBU7F9ptWJmETVesAgt8nSzzU1FxQ;Edge-Key-Pair-Id=DEFAULT",
     "user_agent": "okhttp/4.11.0"
   },
   {
@@ -316,7 +316,7 @@
     "name": "Desh TV",
     "link": "https://owrcovcrpy.gpcdn.net/bpk-tv/1724/output/index.m3u8",
     "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1782012550123.png",
-    "cookie": "Edge-Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9vd3Jjb3ZjcnB5LmdwY2RuLm5ldC9icGstdHYvMTcyNC9vdXRwdXQvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiRWRnZVRpbWUiOjE3ODY4MDYwODd9fX1dfQ;Edge-Signature=ZdWOE9gOVUWejoVWCnXygZyycPcfoOi0MpfWZfJulTA;Edge-Key-Pair-Id=DEFAULT",
+    "cookie": "Edge-Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9vd3Jjb3ZjcnB5LmdwY2RuLm5ldC9icGstdHYvMTcyNC9vdXRwdXQvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiRWRnZVRpbWUiOjE3ODY4MTMyOTV9fX1dfQ;Edge-Signature=rr8R1uF9ArmwjkKhpHJV3cq8UrgksxPNG7saoH9oPiY;Edge-Key-Pair-Id=DEFAULT",
     "user_agent": "okhttp/4.11.0"
   },
   {
@@ -324,7 +324,7 @@
     "name": "Intelligence",
     "link": "https://nomawnoijl.gpcdn.net/akash/intelligence/playlist.m3u8",
     "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1770380460488.png",
-    "cookie": "Edge-Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9ub21hd25vaWpsLmdwY2RuLm5ldC9ha2FzaC9pbnRlbGxpZ2VuY2UvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiRWRnZVRpbWUiOjE3ODY4MDYwODl9fX1dfQ;Edge-Signature=vu8KLCdr~~34dh3WWZYhUFpyEDha72tLU~B6jnounHU;Edge-Key-Pair-Id=DEFAULT",
+    "cookie": "Edge-Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9ub21hd25vaWpsLmdwY2RuLm5ldC9ha2FzaC9pbnRlbGxpZ2VuY2UvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiRWRnZVRpbWUiOjE3ODY4MTMyOTZ9fX1dfQ;Edge-Signature=BQduVeqHtgIIuzkEbCX-Q1hbQ93vvAPMhgLm8uOjFdU;Edge-Key-Pair-Id=DEFAULT",
     "user_agent": "okhttp/4.11.0"
   },
   {
@@ -332,7 +332,7 @@
     "name": "True Stories",
     "link": "https://nomawnoijl.gpcdn.net/akash/truestories/playlist.m3u8",
     "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1770380306806.png",
-    "cookie": "Edge-Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9ub21hd25vaWpsLmdwY2RuLm5ldC9ha2FzaC90cnVlc3Rvcmllcy8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJFZGdlVGltZSI6MTc4NjgwNjA5MH19fV19;Edge-Signature=O~KDBgcoLBW3B5WTOIsRO~gIIlL7pPviOhzZ6T7qsjA;Edge-Key-Pair-Id=DEFAULT",
+    "cookie": "Edge-Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9ub21hd25vaWpsLmdwY2RuLm5ldC9ha2FzaC90cnVlc3Rvcmllcy8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJFZGdlVGltZSI6MTc4NjgxMzI5OH19fV19;Edge-Signature=YdrbfxfbfwbJAue1ee820mP6MGvik3sXhJK4v1drUKg;Edge-Key-Pair-Id=DEFAULT",
     "user_agent": "okhttp/4.11.0"
   },
   {
@@ -340,7 +340,7 @@
     "name": "Luxell HD",
     "link": "https://nomawnoijl.gpcdn.net/akash/luxell/playlist.m3u8",
     "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1770378560772.png",
-    "cookie": "Edge-Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9ub21hd25vaWpsLmdwY2RuLm5ldC9ha2FzaC9sdXhlbGwvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiRWRnZVRpbWUiOjE3ODY4MDYwOTJ9fX1dfQ;Edge-Signature=qmZkSfODuyTOP7CpOw0cYL~gTkBxiCmyX11lgJGhSHk;Edge-Key-Pair-Id=DEFAULT",
+    "cookie": "Edge-Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9ub21hd25vaWpsLmdwY2RuLm5ldC9ha2FzaC9sdXhlbGwvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiRWRnZVRpbWUiOjE3ODY4MTMyOTl9fX1dfQ;Edge-Signature=wdeFscjxp1WTK1u5inGSNraI56z6Tdob-HBybXsPz4I;Edge-Key-Pair-Id=DEFAULT",
     "user_agent": "okhttp/4.11.0"
   }
 ]

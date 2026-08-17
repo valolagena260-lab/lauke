@@ -144,11 +144,38 @@ https://toffee-obiramtv.emonsa4.workers.dev/42.m3u8|Origin=https://obiramtvlive.
 #EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/f_png group-title="MY BC",w_300,q_85/WtPBX5UBm1RY_In7mXEU/posters/188d51f6-aeef-41ed-835b-e25ff911e209.png",HUM Sitaray
 https://toffee-obiramtv.emonsa4.workers.dev/43.m3u8|Origin=https://obiramtvlive.pages.dev&Referer=https://obiramtvlive.pages.dev/
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" group-title="MY BC",Star Jalsha
-https://sm-monirul.top/@monirul_Islam_SM/stream.php?id=star_jalsha&formet=.m3u8|Origin=https://obiramtvlive.pages.dev&Referer=https://obiramtvlive.pages.dev/
+#EXT-X-MEDIA:TYPE=VIDEO,GROUP-ID="group",NAME="Server 2",URI="https://sm-monirul.top/@monirul_Islam_SM/stream.php?id=star_jalsha&formet=.m3u8"
+https://roar-obiram.emonsa4.workers.dev/play/10|Origin=https://obiramtvlive.pages.dev&Referer=https://obiramtvlive.pages.dev/
 #EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/f_png group-title="MY BC",w_300,q_85/-C7MX5UBv9knK3AHdKOi/posters/90d82846-70b9-44ee-9f7e-e440f00b3be8.png",Zee Bangla Cinema
 https://toffee-obiramtv.emonsa4.workers.dev/34.m3u8|Origin=https://obiramtvlive.pages.dev&Referer=https://obiramtvlive.pages.dev/
-#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/f_png group-title="MY BC",w_300,q_85/kK2aX5UBrjBfS2_RBcKf/posters/ba5dd8dc-4f87-414a-b57f-c9ecdeda5253.png",Zee Bangla
-https://toffee-obiramtv.emonsa4.workers.dev/40.m3u8|Origin=https://obiramtvlive.pages.dev&Referer=https://obiramtvlive.pages.dev/
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/shamimpipon/ROAR/refs/heads/main/Zee%20Bangla%20hd.jpg" group-title="MY BC",Zee Bangla
+#EXT-X-MEDIA:TYPE=VIDEO,GROUP-ID="group",NAME="Server 2",URI="https://toffee-obiramtv.emonsa4.workers.dev/40.m3u8"
+https://roar-obiram.emonsa4.workers.dev/play/11|Origin=https://obiramtvlive.pages.dev&Referer=https://obiramtvlive.pages.dev/
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AsimDipto/Logo-box/main/India/jalsha-movies-hd-in.png" group-title="MY BC",জলসা Movie HD
+#EXT-X-MEDIA:TYPE=VIDEO,GROUP-ID="group",NAME="Server 2",URI="https://roar-obiram.emonsa4.workers.dev/play/2"
+https://roar-obiram.emonsa4.workers.dev/play/12|Origin=https://obiramtvlive.pages.dev&Referer=https://obiramtvlive.pages.dev/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HVZHZGl.png" group-title="MY BC",Colors Bangla HD
+https://roar-obiram.emonsa4.workers.dev/play/3|Origin=https://obiramtvlive.pages.dev&Referer=https://obiramtvlive.pages.dev/
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/d/1iM4PZ4Ra90vtIsfQVlzS3-MKbe07U27q" group-title="MY BC",Colors Bangla Cinema
+https://roar-obiram.emonsa4.workers.dev/play/4|Origin=https://obiramtvlive.pages.dev&Referer=https://obiramtvlive.pages.dev/
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/d/1iM4PZ4Ra90vtIsfQVlzS3-MKbe07U27q" group-title="MY BC",Enterr10 Bangla
+https://roar-obiram.emonsa4.workers.dev/play/5|Origin=https://obiramtvlive.pages.dev&Referer=https://obiramtvlive.pages.dev/
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/d/1iM4PZ4Ra90vtIsfQVlzS3-MKbe07U27q" group-title="MY BC",Sony AATH
+https://roar-obiram.emonsa4.workers.dev/play/6|Origin=https://obiramtvlive.pages.dev&Referer=https://obiramtvlive.pages.dev/
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/d/1iM4PZ4Ra90vtIsfQVlzS3-MKbe07U27q" group-title="MY BC",Nick
+https://roar-obiram.emonsa4.workers.dev/play/7|Origin=https://obiramtvlive.pages.dev&Referer=https://obiramtvlive.pages.dev/
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/d/1iM4PZ4Ra90vtIsfQVlzS3-MKbe07U27q" group-title="MY BC",Sonic
+https://roar-obiram.emonsa4.workers.dev/play/8|Origin=https://obiramtvlive.pages.dev&Referer=https://obiramtvlive.pages.dev/
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/d/1iM4PZ4Ra90vtIsfQVlzS3-MKbe07U27q" group-title="MY BC",Discovery
+https://roar-obiram.emonsa4.workers.dev/play/9|Origin=https://obiramtvlive.pages.dev&Referer=https://obiramtvlive.pages.dev/
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AsimDipto/Logo-box/refs/heads/main/India/colors-bangla-hd-in.png" group-title="MY BC",Colors Bangla
+https://roar-obiram.emonsa4.workers.dev/play/13|Origin=https://obiramtvlive.pages.dev&Referer=https://obiramtvlive.pages.dev/
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Bangla_Cinema.png" group-title="MY BC",Colours Bangla Chinema
+https://roar-obiram.emonsa4.workers.dev/play/14|Origin=https://obiramtvlive.pages.dev&Referer=https://obiramtvlive.pages.dev/
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AsimDipto/Logo-box/refs/heads/main/India/sony-aath-in.png" group-title="MY BC",Sony Aath
+https://roar-obiram.emonsa4.workers.dev/play/15|Origin=https://obiramtvlive.pages.dev&Referer=https://obiramtvlive.pages.dev/
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AsimDipto/Logo-box/refs/heads/main/India/sangeet-bangla-in.png" group-title="MY BC",Sangeet Bangla
+https://roar-obiram.emonsa4.workers.dev/play/16|Origin=https://obiramtvlive.pages.dev&Referer=https://obiramtvlive.pages.dev/
 #EXTINF:-1 tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770380791303.png" group-title="MY BC",Thunder Er
 https://akashgo-obiramtv.emonsa4.workers.dev/22.m3u8|Origin=https://obiramtvlive.pages.dev&Referer=https://obiramtvlive.pages.dev/
 #EXTINF:-1 tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770380942670.png" group-title="MY BC",Fighters
@@ -272,88 +299,88 @@ https://toffee-obiramtv.emonsa4.workers.dev/67.m3u8|Origin=https://obiramtvlive.
 #EXT-X-MEDIA:TYPE=VIDEO,GROUP-ID="group",NAME="Server 2",URI="https://crichdproxy.saemon068.workers.dev/play?id=a-sports-hd"
 https://ay-obiram.emonsa4.workers.dev/31.m3u8|Origin=https://obiramtvlive.pages.dev&Referer=https://obiramtvlive.pages.dev/
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/16-by-xfireflix.png" group-title="MY BC",Star Sports 1
-https://cdn9.zohanayaan.com:1686/hls/star1in.m3u8?md5=yBcztcfw-uYt7uuDZ5kfGQ&expires=1786987750|Referer=https://executeandship.com/
+https://cdn1.zohanayaan.com:1686/hls/star1in.m3u8?md5=D_Gjjy2xQ9jyZpLEZ_H5XQ&expires=1786989929|Referer=https://executeandship.com/
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/1-by-xfireflix.png" group-title="MY BC",Star Sports 1 Hindi
-https://cdn8.zohanayaan.com:1686/hls/starhindi.m3u8?md5=akSSDimUpDTvpYRdwSQ1vg&expires=1786987750|Referer=https://executeandship.com/
+https://cdn9.zohanayaan.com:1686/hls/starhindi.m3u8?md5=_wJFrjTjfJeVkURxUMdzxQ&expires=1786989929|Referer=https://executeandship.com/
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/20-by-xfireflix.png" group-title="MY BC",PTV Sports
 #EXT-X-MEDIA:TYPE=VIDEO,GROUP-ID="group",NAME="Server 2",URI="https://ay-obiram.emonsa4.workers.dev/23.m3u8"
-https://cdn6.zohanayaan.com:1686/hls/ptvpk.m3u8?md5=teVT-dswrumqfmuoxJuzgg&expires=1786987750|Referer=https://executeandship.com/
+https://cdn5.zohanayaan.com:1686/hls/ptvpk.m3u8?md5=9eiOcHFEcws7g0hSvxDVdA&expires=1786989930|Referer=https://executeandship.com/
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/38-by-xfireflix.png" group-title="MY BC",Willow HD
-https://cdn2.zohanayaan.com:1686/hls/willowusa.m3u8?md5=LdSN-Y9X1dB5TkxOAWDBOQ&expires=1786987751|Referer=https://executeandship.com/
+https://cdn5.zohanayaan.com:1686/hls/willowusa.m3u8?md5=tsUS8imKLxeBkYaIj_Aq3g&expires=1786989930|Referer=https://executeandship.com/
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/8-by-xfireflix.png" group-title="MY BC",Willow HD 2
-https://cdn9.zohanayaan.com:1686/hls/willowextra.m3u8?md5=lWF7AzSxv9paqnCdu4CSMA&expires=1786987751|Referer=https://executeandship.com/
+https://cdn2.zohanayaan.com:1686/hls/willowextra.m3u8?md5=WmRA08KshTxYIdy7cUdKdg&expires=1786989930|Referer=https://executeandship.com/
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/10-by-xfireflix.png" group-title="MY BC",Ten Sports
-https://cdn1.zohanayaan.com:1686/hls/tenspk.m3u8?md5=uml0KHMaEBgcMPY70r0iAg&expires=1786987751|Referer=https://executeandship.com/
+https://cdn6.zohanayaan.com:1686/hls/tenspk.m3u8?md5=uDMwkMFa51reFQZMOqANnA&expires=1786989930|Referer=https://executeandship.com/
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/9-by-xfireflix.png" group-title="MY BC",Sky Sports Cricket
-https://cdn4.zohanayaan.com:1686/hls/skyscric.m3u8?md5=9Qnc0o8KDSLLPaR-44jmzA&expires=1786987752|Referer=https://executeandship.com/
+https://cdn7.zohanayaan.com:1686/hls/skyscric.m3u8?md5=e8_2d8J_Xi1fWQGFac9zTQ&expires=1786989931|Referer=https://executeandship.com/
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/18-by-xfireflix.png" group-title="MY BC",Sky Sports Main Event
-https://cdn10.zohanayaan.com:1686/hls/skysme.m3u8?md5=r-Nyz2cDpxrlIhhHU3q3Cw&expires=1786987752|Referer=https://executeandship.com/
+https://cdn3.zohanayaan.com:1686/hls/skysme.m3u8?md5=scz_E_dXrWpksQvq5js-Rg&expires=1786989931|Referer=https://executeandship.com/
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/tnt.png" group-title="MY BC",TNT 1
-https://cdn4.zohanayaan.com:1686/hls/bbtsp1.m3u8?md5=Nrw3Q9YOKzK98RNR5G6laQ&expires=1786987752|Referer=https://executeandship.com/
+https://cdn8.zohanayaan.com:1686/hls/bbtsp1.m3u8?md5=tO5CpKCJl1k6cs0iVaOlxw&expires=1786989931|Referer=https://executeandship.com/
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/tnt.png" group-title="MY BC",TNT 2
-https://cdn9.zohanayaan.com:1686/hls/bbtsp2.m3u8?md5=PAqwwyOXdlq_orTriwFfvQ&expires=1786987752|Referer=https://executeandship.com/
+https://cdn1.zohanayaan.com:1686/hls/bbtsp2.m3u8?md5=xzreQabHmO76t7MSf_ZoGg&expires=1786989932|Referer=https://executeandship.com/
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/tnt.png" group-title="MY BC",TNT 3
-https://cdn3.zohanayaan.com:1686/hls/bbtsp3.m3u8?md5=AEpc9DUTIAkCh91Nweg8_g&expires=1786987753|Referer=https://executeandship.com/
+https://cdn10.zohanayaan.com:1686/hls/bbtsp3.m3u8?md5=pionrB7saxLo7uM4KuJDgA&expires=1786989932|Referer=https://executeandship.com/
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/tnt.png" group-title="MY BC",TNT 4
-https://cdn8.zohanayaan.com:1686/hls/bbtespn.m3u8?md5=vM0YPA7UEAzz1o9leRYLTg&expires=1786987753|Referer=https://executeandship.com/
+https://cdn1.zohanayaan.com:1686/hls/bbtespn.m3u8?md5=4ABjEjiq_9mu6W8bXzEK_A&expires=1786989932|Referer=https://executeandship.com/
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/56-by-xfireflix.png" group-title="MY BC",Sky Sport Nz 1
-https://cdn8.zohanayaan.com:1686/hls/sky1nz.m3u8?md5=xKSy5ybF-wsuC_cRzmq-NQ&expires=1786987753|Referer=https://executeandship.com/
+https://cdn8.zohanayaan.com:1686/hls/sky1nz.m3u8?md5=LI_MUNPP7yLbiLXGGp8tGQ&expires=1786989932|Referer=https://executeandship.com/
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/56-by-xfireflix.png" group-title="MY BC",Sky Sport Nz 2
-https://cdn6.zohanayaan.com:1686/hls/sky2nz.m3u8?md5=rgQU2XlqFYwLpSbNAPnJ6g&expires=1786987753|Referer=https://executeandship.com/
+https://cdn3.zohanayaan.com:1686/hls/sky2nz.m3u8?md5=S8pN4lWNe_xjQfgtFtnQ2g&expires=1786989932|Referer=https://executeandship.com/
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/56-by-xfireflix.png" group-title="MY BC",Sky Sport Nz 3
-https://cdn2.zohanayaan.com:1686/hls/sky3nz.m3u8?md5=7qtar5uwe-fWSrFV7JtS1A&expires=1786987753|Referer=https://executeandship.com/
+https://cdn8.zohanayaan.com:1686/hls/sky3nz.m3u8?md5=oj4qzSMscsVfm919LM__jQ&expires=1786989932|Referer=https://executeandship.com/
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/56-by-xfireflix.png" group-title="MY BC",Sky Sport Nz 4
-https://cdn9.zohanayaan.com:1686/hls/sky4nz.m3u8?md5=rcbmfRQqkZuyFdihwkGwLw&expires=1786987753|Referer=https://executeandship.com/
+https://cdn2.zohanayaan.com:1686/hls/sky4nz.m3u8?md5=Yll48OZH4LqTYVV_B2bLTQ&expires=1786989932|Referer=https://executeandship.com/
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/56-by-xfireflix.png" group-title="MY BC",Sky Sport Nz 5
-https://cdn4.zohanayaan.com:1686/hls/sky5nz.m3u8?md5=pdHpv1dXmb6oqY1EsM-EQw&expires=1786987753|Referer=https://executeandship.com/
+https://cdn2.zohanayaan.com:1686/hls/sky5nz.m3u8?md5=dUZeVARB_HrZhu8cp2q32w&expires=1786989933|Referer=https://executeandship.com/
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/56-by-xfireflix.png" group-title="MY BC",Sky Sport 6 Nz
-https://cdn9.zohanayaan.com:1686/hls/sky6nz.m3u8?md5=baNuTbt7gR3IWcFlrV-6ZA&expires=1786987754|Referer=https://executeandship.com/
+https://cdn3.zohanayaan.com:1686/hls/sky6nz.m3u8?md5=DV2s-EMxfzkFwj8L-SVvrA&expires=1786989933|Referer=https://executeandship.com/
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/56-by-xfireflix.png" group-title="MY BC",Sky Sport Nz 7
-https://cdn7.zohanayaan.com:1686/hls/sky7nz.m3u8?md5=rgbu0INHbsJhKXhMhVoYAA&expires=1786987754|Referer=https://executeandship.com/
+https://cdn5.zohanayaan.com:1686/hls/sky7nz.m3u8?md5=gaqKzKlsRHoYUy5lGILkXA&expires=1786989933|Referer=https://executeandship.com/
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/56-by-xfireflix.png" group-title="MY BC",Sky Sport Nz 8
-https://cdn6.zohanayaan.com:1686/hls/sky8nz.m3u8?md5=uiIHcY6Pg9z6cQNSoDT0cg&expires=1786987754|Referer=https://executeandship.com/
+https://cdn3.zohanayaan.com:1686/hls/sky8nz.m3u8?md5=hsjl8osne8WZIK2MC1HzKg&expires=1786989933|Referer=https://executeandship.com/
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/56-by-xfireflix.png" group-title="MY BC",Sky Sport Nz 9
-https://cdn10.zohanayaan.com:1686/hls/sky9nz.m3u8?md5=LUNIl9P1N3-oAeES58qbEA&expires=1786987754|Referer=https://executeandship.com/
+https://cdn9.zohanayaan.com:1686/hls/sky9nz.m3u8?md5=Ef4tG60-alFhmTf8nUBalw&expires=1786989933|Referer=https://executeandship.com/
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/skycinema.png" group-title="MY BC",Sky Cinema
-https://cdn10.zohanayaan.com:1686/hls/skysme.m3u8?md5=r-Nyz2cDpxrlIhhHU3q3Cw&expires=1786987752|Referer=https://executeandship.com/
+https://cdn3.zohanayaan.com:1686/hls/skysme.m3u8?md5=scz_E_dXrWpksQvq5js-Rg&expires=1786989931|Referer=https://executeandship.com/
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/1745007829332.png" group-title="MY BC",Sky Sports Action
-https://cdn2.zohanayaan.com:1686/hls/skysact.m3u8?md5=ccidpQUVSUT0kPpIh3xkQQ&expires=1786987754|Referer=https://executeandship.com/
+https://cdn6.zohanayaan.com:1686/hls/skysact.m3u8?md5=2xXrk80SmHcJMmr8MAf5hw&expires=1786989933|Referer=https://executeandship.com/
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/1745008055327.png" group-title="MY BC",Sky Sports Golf
-https://cdn6.zohanayaan.com:1686/hls/skysgol.m3u8?md5=XZG6O4mEyk0wWIUEz8Q9rQ&expires=1786987754|Referer=https://executeandship.com/
+https://cdn9.zohanayaan.com:1686/hls/skysgol.m3u8?md5=tWVwgXArMXZCzR3ekILhOA&expires=1786989933|Referer=https://executeandship.com/
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/43-by-xfireflix.png" group-title="MY BC",Sky Sports Premier League
-https://cdn2.zohanayaan.com:1686/hls/skysprem.m3u8?md5=kU3aT8raqPxd358wjBMetQ&expires=1786987754|Referer=https://executeandship.com/
+https://cdn2.zohanayaan.com:1686/hls/skysprem.m3u8?md5=W7f7NTba_9P7A61fMjOQCA&expires=1786989934|Referer=https://executeandship.com/
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/44-by-xfireflix.png" group-title="MY BC",Sky Sports Football
-https://cdn5.zohanayaan.com:1686/hls/skysfott.m3u8?md5=j_CA1odE-j7QvktVdf5CSQ&expires=1786987755|Referer=https://executeandship.com/
+https://cdn9.zohanayaan.com:1686/hls/skysfott.m3u8?md5=X1iVhjT-MWd0RkxNWyGbzQ&expires=1786989934|Referer=https://executeandship.com/
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/1745008347584.png" group-title="MY BC",Sky Sports Plus
-https://cdn2.zohanayaan.com:1686/hls/skysare.m3u8?md5=fNgR1WgAkFsAYmGHIztqvw&expires=1786987755|Referer=https://executeandship.com/
+https://cdn8.zohanayaan.com:1686/hls/skysare.m3u8?md5=vLC7hyLGdmRgbxCRSXLdRw&expires=1786989934|Referer=https://executeandship.com/
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/1745008468637.png" group-title="MY BC",Sky Sports F1
-https://cdn1.zohanayaan.com:1686/hls/skysfor1.m3u8?md5=CkvV-fBxL53KP-HqOy_H4Q&expires=1786987755|Referer=https://executeandship.com/
+https://cdn7.zohanayaan.com:1686/hls/skysfor1.m3u8?md5=F0Pcj624BfVpFsEZB3vF6g&expires=1786989934|Referer=https://executeandship.com/
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/19-by-xfireflix.png" group-title="MY BC",LaLiGA
-https://cdn2.zohanayaan.com:1686/hls/laligauk.m3u8?md5=QaQdhWv7F1yIWh_oPfeW5A&expires=1786987755|Referer=https://executeandship.com/
+https://cdn2.zohanayaan.com:1686/hls/laligauk.m3u8?md5=RhqktX8mNiCjUUMLQFro0w&expires=1786989934|Referer=https://executeandship.com/
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/31-by-xfireflix.png" group-title="MY BC",Premier Sports 1
-https://cdn9.zohanayaan.com:1686/hls/premieruk.m3u8?md5=ycRx2RgWSBGF6M-MkJveUg&expires=1786987755|Referer=https://executeandship.com/
+https://cdn10.zohanayaan.com:1686/hls/premieruk.m3u8?md5=I7BDFj5xdQpUohSxpAC4aw&expires=1786989934|Referer=https://executeandship.com/
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/31-by-xfireflix.png" group-title="MY BC",Premier Sports 2
-https://cdn5.zohanayaan.com:1686/hls/hdchnl2.m3u8?md5=Imo722FqIaGShnpd7YAWcQ&expires=1786987755|Referer=https://executeandship.com/
+https://cdn6.zohanayaan.com:1686/hls/hdchnl2.m3u8?md5=PBWcEukxUgUEh54SmzgFAQ&expires=1786989934|Referer=https://executeandship.com/
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/34-by-xfireflix.png" group-title="MY BC",Super Football
-https://cdn4.zohanayaan.com:1686/hls/superfotball.m3u8?md5=e30o848TveLNyJX5NQ-cuA&expires=1786987756|Referer=https://executeandship.com/
+https://cdn7.zohanayaan.com:1686/hls/superfotball.m3u8?md5=txePQmujp3X20Ov7cndCcw&expires=1786989934|Referer=https://executeandship.com/
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/1745008781606.png" group-title="MY BC",Super Premier League
-https://cdn8.zohanayaan.com:1686/hls/superpremier.m3u8?md5=xBbte3M44Whw12naAp8maw&expires=1786987756|Referer=https://executeandship.com/
+https://cdn10.zohanayaan.com:1686/hls/superpremier.m3u8?md5=EPG_THqtQTa7NclFb9OGlw&expires=1786989934|Referer=https://executeandship.com/
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/1745008895589.png" group-title="MY BC",Astro Cricket
-https://cdn2.zohanayaan.com:1686/hls/fox501.m3u8?md5=4TRNn1TH4N7XPKdTmXlluQ&expires=1786987756|Referer=https://executeandship.com/
+https://cdn10.zohanayaan.com:1686/hls/fox501.m3u8?md5=p5O7iY9JHmWfR4qf4k3iFA&expires=1786989935|Referer=https://executeandship.com/
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/17-by-xfireflix.png" group-title="MY BC",ESPN 1
-https://cdn7.zohanayaan.com:1686/hls/espnusa.m3u8?md5=BY4ElpDf6L0fQxWXYs8Jpg&expires=1786987756|Referer=https://executeandship.com/
+https://cdn4.zohanayaan.com:1686/hls/espnusa.m3u8?md5=QDc1fwsNbs1AeyGY0Uclew&expires=1786989935|Referer=https://executeandship.com/
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/17-by-xfireflix.png" group-title="MY BC",ESPN 2
-https://cdn8.zohanayaan.com:1686/hls/espn2.m3u8?md5=6k3fclyrGP48zQRO7W5YBg&expires=1786987756|Referer=https://executeandship.com/
+https://cdn8.zohanayaan.com:1686/hls/espn2.m3u8?md5=MPHEP-hu4jm4-n7uE_9h6A&expires=1786989935|Referer=https://executeandship.com/
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/1745007829327.png" group-title="MY BC",Sky Sports Arena
-https://cdn2.zohanayaan.com:1686/hls/skysare.m3u8?md5=fNgR1WgAkFsAYmGHIztqvw&expires=1786987755|Referer=https://executeandship.com/
+https://cdn8.zohanayaan.com:1686/hls/skysare.m3u8?md5=vLC7hyLGdmRgbxCRSXLdRw&expires=1786989934|Referer=https://executeandship.com/
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/13-by-xfireflix.png" group-title="MY BC",Sky Sports Mix
-https://cdn2.zohanayaan.com:1686/hls/skysmixx.m3u8?md5=4e8ya28iSaC0bFGxkZFLzg&expires=1786987756|Referer=https://executeandship.com/
+https://cdn8.zohanayaan.com:1686/hls/skysmixx.m3u8?md5=ByM9A9qbcesEUc-SiSORcw&expires=1786989935|Referer=https://executeandship.com/
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/1745009085794.png" group-title="MY BC",Sky Sports Tennis
-https://cdn8.zohanayaan.com:1686/hls/skystennis.m3u8?md5=EOCiXO0w4OwWpzAY1i4S5A&expires=1786987756|Referer=https://executeandship.com/
+https://cdn8.zohanayaan.com:1686/hls/skystennis.m3u8?md5=kL6l4b56-TY9FZEnzdJdVg&expires=1786989935|Referer=https://executeandship.com/
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/6-by-xfireflix.png" group-title="MY BC",Fox Cricket 501 HD
-https://cdn2.zohanayaan.com:1686/hls/fox501.m3u8?md5=4TRNn1TH4N7XPKdTmXlluQ&expires=1786987756|Referer=https://executeandship.com/
+https://cdn10.zohanayaan.com:1686/hls/fox501.m3u8?md5=p5O7iY9JHmWfR4qf4k3iFA&expires=1786989935|Referer=https://executeandship.com/
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/1000173192-modified.png" group-title="MY BC",Sony Sports3
-https://cdn6.zohanayaan.com:1686/hls/ten1hd.m3u8?md5=9H2M1reKzb-VLBYlma7Jjg&expires=1786987757|Referer=https://executeandship.com/
+https://cdn2.zohanayaan.com:1686/hls/ten1hd.m3u8?md5=j1GV9-j0gUrZjIYY8mwaug&expires=1786989935|Referer=https://executeandship.com/
 #EXTINF:-1 tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-02/images_b9a8bdbfcea2fb4656204d06f615682a_playmist_thikana400x400.jpg" group-title="MY BC",Thikana
 #EXT-X-MEDIA:TYPE=VIDEO,GROUP-ID="group",NAME="Server 2",URI="https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/thikanatv.stream/tracks-v1a1/mono.m3u8"
 https://ay-obiram.emonsa4.workers.dev/102.m3u8|Origin=https://obiramtvlive.pages.dev&Referer=https://obiramtvlive.pages.dev/
@@ -566,243 +593,3 @@ https://toffee-obiramtv.emonsa4.workers.dev/10.m3u8|Origin=https://obiramtvlive.
 https://roar-obiram.emonsa4.workers.dev/play/0|Origin=https://obiramtvlive.pages.dev&Referer=https://obiramtvlive.pages.dev/
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/d/1iM4PZ4Ra90vtIsfQVlzS3-MKbe07U27q" group-title="MY BC",BTV
 https://roar-obiram.emonsa4.workers.dev/play/1|Origin=https://obiramtvlive.pages.dev&Referer=https://obiramtvlive.pages.dev/
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/d/1iM4PZ4Ra90vtIsfQVlzS3-MKbe07U27q" group-title="MY BC",Jalsha Movies
-https://roar-obiram.emonsa4.workers.dev/play/2|Origin=https://obiramtvlive.pages.dev&Referer=https://obiramtvlive.pages.dev/
-#EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/image534fa27d7683f33d.png" group-title="MY BC",Ekushey TV
-https://roar-obiram.emonsa4.workers.dev/play/3|Origin=https://obiramtvlive.pages.dev&Referer=https://obiramtvlive.pages.dev/
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HVZHZGl.png" group-title="MY BC",Colors Bangla HD
-https://roar-obiram.emonsa4.workers.dev/play/4|Origin=https://obiramtvlive.pages.dev&Referer=https://obiramtvlive.pages.dev/
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/d/1iM4PZ4Ra90vtIsfQVlzS3-MKbe07U27q" group-title="MY BC",Colors Bangla Cinema
-https://roar-obiram.emonsa4.workers.dev/play/5|Origin=https://obiramtvlive.pages.dev&Referer=https://obiramtvlive.pages.dev/
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/d/1iM4PZ4Ra90vtIsfQVlzS3-MKbe07U27q" group-title="MY BC",Enterr10 Bangla
-https://roar-obiram.emonsa4.workers.dev/play/6|Origin=https://obiramtvlive.pages.dev&Referer=https://obiramtvlive.pages.dev/
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/d/1iM4PZ4Ra90vtIsfQVlzS3-MKbe07U27q" group-title="MY BC",Sony AATH
-https://roar-obiram.emonsa4.workers.dev/play/7|Origin=https://obiramtvlive.pages.dev&Referer=https://obiramtvlive.pages.dev/
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/d/1iM4PZ4Ra90vtIsfQVlzS3-MKbe07U27q" group-title="MY BC",Nick
-https://roar-obiram.emonsa4.workers.dev/play/8|Origin=https://obiramtvlive.pages.dev&Referer=https://obiramtvlive.pages.dev/
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/d/1iM4PZ4Ra90vtIsfQVlzS3-MKbe07U27q" group-title="MY BC",Sonic
-https://roar-obiram.emonsa4.workers.dev/play/9|Origin=https://obiramtvlive.pages.dev&Referer=https://obiramtvlive.pages.dev/
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/d/1iM4PZ4Ra90vtIsfQVlzS3-MKbe07U27q" group-title="MY BC",Discovery
-https://roar-obiram.emonsa4.workers.dev/play/10|Origin=https://obiramtvlive.pages.dev&Referer=https://obiramtvlive.pages.dev/
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/d/1iM4PZ4Ra90vtIsfQVlzS3-MKbe07U27q" group-title="MY BC",Sony Wah
-https://roar-obiram.emonsa4.workers.dev/play/11|Origin=https://obiramtvlive.pages.dev&Referer=https://obiramtvlive.pages.dev/
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/d/1iM4PZ4Ra90vtIsfQVlzS3-MKbe07U27q" group-title="MY BC",Colors Cineplex HD
-https://roar-obiram.emonsa4.workers.dev/play/12|Origin=https://obiramtvlive.pages.dev&Referer=https://obiramtvlive.pages.dev/
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/d/1iM4PZ4Ra90vtIsfQVlzS3-MKbe07U27q" group-title="MY BC",Goldmines 2
-https://roar-obiram.emonsa4.workers.dev/play/13|Origin=https://obiramtvlive.pages.dev&Referer=https://obiramtvlive.pages.dev/
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/d/1iM4PZ4Ra90vtIsfQVlzS3-MKbe07U27q" group-title="MY BC",Goldmines Action
-https://roar-obiram.emonsa4.workers.dev/play/14|Origin=https://obiramtvlive.pages.dev&Referer=https://obiramtvlive.pages.dev/
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/d/1iM4PZ4Ra90vtIsfQVlzS3-MKbe07U27q" group-title="MY BC",Bein Sports Direct HD
-https://roar-obiram.emonsa4.workers.dev/play/15|Origin=https://obiramtvlive.pages.dev&Referer=https://obiramtvlive.pages.dev/
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/d/1iM4PZ4Ra90vtIsfQVlzS3-MKbe07U27q" group-title="MY BC",Hindi Hits HD
-https://roar-obiram.emonsa4.workers.dev/play/16|Origin=https://obiramtvlive.pages.dev&Referer=https://obiramtvlive.pages.dev/
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/d/1iM4PZ4Ra90vtIsfQVlzS3-MKbe07U27q" group-title="MY BC",Zee Anmol TV
-https://roar-obiram.emonsa4.workers.dev/play/17|Origin=https://obiramtvlive.pages.dev&Referer=https://obiramtvlive.pages.dev/
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/d/1iM4PZ4Ra90vtIsfQVlzS3-MKbe07U27q" group-title="MY BC",Big Magic
-https://roar-obiram.emonsa4.workers.dev/play/18|Origin=https://obiramtvlive.pages.dev&Referer=https://obiramtvlive.pages.dev/
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/d/1iM4PZ4Ra90vtIsfQVlzS3-MKbe07U27q" group-title="MY BC",Zee Action
-https://roar-obiram.emonsa4.workers.dev/play/19|Origin=https://obiramtvlive.pages.dev&Referer=https://obiramtvlive.pages.dev/
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/d/1iM4PZ4Ra90vtIsfQVlzS3-MKbe07U27q" group-title="MY BC",Goldmines Bollywood
-https://roar-obiram.emonsa4.workers.dev/play/20|Origin=https://obiramtvlive.pages.dev&Referer=https://obiramtvlive.pages.dev/
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/d/1iM4PZ4Ra90vtIsfQVlzS3-MKbe07U27q" group-title="MY BC",Star Sports 1 HD
-https://roar-obiram.emonsa4.workers.dev/play/21|Origin=https://obiramtvlive.pages.dev&Referer=https://obiramtvlive.pages.dev/
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/d/1iM4PZ4Ra90vtIsfQVlzS3-MKbe07U27q" group-title="MY BC",Food Food
-https://roar-obiram.emonsa4.workers.dev/play/22|Origin=https://obiramtvlive.pages.dev&Referer=https://obiramtvlive.pages.dev/
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/d/1iM4PZ4Ra90vtIsfQVlzS3-MKbe07U27q" group-title="MY BC",Nat Geo HD
-https://roar-obiram.emonsa4.workers.dev/play/23|Origin=https://obiramtvlive.pages.dev&Referer=https://obiramtvlive.pages.dev/
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/d/1iM4PZ4Ra90vtIsfQVlzS3-MKbe07U27q" group-title="MY BC",NHK World
-https://roar-obiram.emonsa4.workers.dev/play/24|Origin=https://obiramtvlive.pages.dev&Referer=https://obiramtvlive.pages.dev/
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/d/1iM4PZ4Ra90vtIsfQVlzS3-MKbe07U27q" group-title="MY BC",9XM
-https://roar-obiram.emonsa4.workers.dev/play/25|Origin=https://obiramtvlive.pages.dev&Referer=https://obiramtvlive.pages.dev/
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/d/1iM4PZ4Ra90vtIsfQVlzS3-MKbe07U27q" group-title="MY BC",Music India
-https://roar-obiram.emonsa4.workers.dev/play/26|Origin=https://obiramtvlive.pages.dev&Referer=https://obiramtvlive.pages.dev/
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/d/1iM4PZ4Ra90vtIsfQVlzS3-MKbe07U27q" group-title="MY BC",Nursary Rhymes
-https://roar-obiram.emonsa4.workers.dev/play/27|Origin=https://obiramtvlive.pages.dev&Referer=https://obiramtvlive.pages.dev/
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/d/1iM4PZ4Ra90vtIsfQVlzS3-MKbe07U27q" group-title="MY BC",Live Sports-3
-https://roar-obiram.emonsa4.workers.dev/play/28|Origin=https://obiramtvlive.pages.dev&Referer=https://obiramtvlive.pages.dev/
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/d/1iM4PZ4Ra90vtIsfQVlzS3-MKbe07U27q" group-title="MY BC",MBC tv
-https://roar-obiram.emonsa4.workers.dev/play/29|Origin=https://obiramtvlive.pages.dev&Referer=https://obiramtvlive.pages.dev/
-#EXTINF:-1 tvg-logo="https://pub-3fb1cc2150f14147985220b3653a34d1.r2.dev/T%20Sports.png" group-title="MY BC",T Sports
-https://roar-obiram.emonsa4.workers.dev/play/30|Origin=https://obiramtvlive.pages.dev&Referer=https://obiramtvlive.pages.dev/
-#EXTINF:-1 tvg-logo="https://pub-3fb1cc2150f14147985220b3653a34d1.r2.dev/T%20Sports.png" group-title="MY BC",T Sports 2
-https://roar-obiram.emonsa4.workers.dev/play/31|Origin=https://obiramtvlive.pages.dev&Referer=https://obiramtvlive.pages.dev/
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/shamimpipon/ROAR/main/Star%20Jalsha.png" group-title="MY BC",Star Jalsa
-https://roar-obiram.emonsa4.workers.dev/play/32|Origin=https://obiramtvlive.pages.dev&Referer=https://obiramtvlive.pages.dev/
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/shamimpipon/ROAR/refs/heads/main/Zee%20Bangla%20hd.jpg" group-title="MY BC",Zee Bangla
-https://roar-obiram.emonsa4.workers.dev/play/33|Origin=https://obiramtvlive.pages.dev&Referer=https://obiramtvlive.pages.dev/
-#EXTINF:-1 tvg-logo="https://pub-3fb1cc2150f14147985220b3653a34d1.r2.dev/redforce/zee-bangla-sonar-in.png" group-title="MY BC",Zee Bangla Chinena
-https://roar-obiram.emonsa4.workers.dev/play/34|Origin=https://obiramtvlive.pages.dev&Referer=https://obiramtvlive.pages.dev/
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AsimDipto/Logo-box/main/India/jalsha-movies-hd-in.png" group-title="MY BC",জলসা Movie HD
-https://roar-obiram.emonsa4.workers.dev/play/35|Origin=https://obiramtvlive.pages.dev&Referer=https://obiramtvlive.pages.dev/
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AsimDipto/Logo-box/refs/heads/main/India/sun-bangla-hd-in.png" group-title="MY BC",Sun Bangla
-https://roar-obiram.emonsa4.workers.dev/play/36|Origin=https://obiramtvlive.pages.dev&Referer=https://obiramtvlive.pages.dev/
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AsimDipto/Logo-box/refs/heads/main/India/colors-bangla-hd-in.png" group-title="MY BC",Colors Bangla
-https://roar-obiram.emonsa4.workers.dev/play/37|Origin=https://obiramtvlive.pages.dev&Referer=https://obiramtvlive.pages.dev/
-#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Bangla_Cinema.png" group-title="MY BC",Colours Bangla Chinema
-https://roar-obiram.emonsa4.workers.dev/play/38|Origin=https://obiramtvlive.pages.dev&Referer=https://obiramtvlive.pages.dev/
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AsimDipto/Logo-box/refs/heads/main/India/sony-aath-in.png" group-title="MY BC",Sony Aath
-https://roar-obiram.emonsa4.workers.dev/play/39|Origin=https://obiramtvlive.pages.dev&Referer=https://obiramtvlive.pages.dev/
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AsimDipto/Logo-box/refs/heads/main/India/sangeet-bangla-in.png" group-title="MY BC",Sangeet Bangla
-https://roar-obiram.emonsa4.workers.dev/play/40|Origin=https://obiramtvlive.pages.dev&Referer=https://obiramtvlive.pages.dev/
-#EXTINF:-1 tvg-logo="https://pub-3fb1cc2150f14147985220b3653a34d1.r2.dev/redforce/aakash-aath-in.png" group-title="MY BC",আকাশ ৮
-https://roar-obiram.emonsa4.workers.dev/play/41|Origin=https://obiramtvlive.pages.dev&Referer=https://obiramtvlive.pages.dev/
-#EXTINF:-1 tvg-logo="https://pub-3fb1cc2150f14147985220b3653a34d1.r2.dev/redforce/enter10-bangla-in.png" group-title="MY BC",Ente10 Bangla
-https://roar-obiram.emonsa4.workers.dev/play/42|Origin=https://obiramtvlive.pages.dev&Referer=https://obiramtvlive.pages.dev/
-#EXTINF:-1 tvg-logo="https://pub-3fb1cc2150f14147985220b3653a34d1.r2.dev/BTV%20National.png" group-title="MY BC",BTV
-https://roar-obiram.emonsa4.workers.dev/play/43|Origin=https://obiramtvlive.pages.dev&Referer=https://obiramtvlive.pages.dev/
-#EXTINF:-1 tvg-logo="http://alixbd.com/assets/images/btvnews.png" group-title="MY BC",BTV News
-https://roar-obiram.emonsa4.workers.dev/play/44|Origin=https://obiramtvlive.pages.dev&Referer=https://obiramtvlive.pages.dev/
-#EXTINF:-1 tvg-logo="https://pub-3fb1cc2150f14147985220b3653a34d1.r2.dev/Gazi%20TV.jpg" group-title="MY BC",Gazi TV
-https://roar-obiram.emonsa4.workers.dev/play/45|Origin=https://obiramtvlive.pages.dev&Referer=https://obiramtvlive.pages.dev/
-#EXTINF:-1 tvg-logo="https://pub-3fb1cc2150f14147985220b3653a34d1.r2.dev/Nagorik%20TV.png" group-title="MY BC",Nagorik TV
-https://roar-obiram.emonsa4.workers.dev/play/46|Origin=https://obiramtvlive.pages.dev&Referer=https://obiramtvlive.pages.dev/
-#EXTINF:-1 tvg-logo="https://pub-3fb1cc2150f14147985220b3653a34d1.r2.dev/1786100100445-3ab97eaa-btvnews.png" group-title="MY BC",BTV News
-https://roar-obiram.emonsa4.workers.dev/play/47|Origin=https://obiramtvlive.pages.dev&Referer=https://obiramtvlive.pages.dev/
-#EXTINF:-1 tvg-logo="https://pub-3fb1cc2150f14147985220b3653a34d1.r2.dev/Star%20News.jpg" group-title="MY BC",Star News
-https://roar-obiram.emonsa4.workers.dev/play/48|Origin=https://obiramtvlive.pages.dev&Referer=https://obiramtvlive.pages.dev/
-#EXTINF:-1 tvg-logo="https://pub-3fb1cc2150f14147985220b3653a34d1.r2.dev/Jamuna%20TV.jpeg" group-title="MY BC",Jamuna TV
-https://roar-obiram.emonsa4.workers.dev/play/49|Origin=https://obiramtvlive.pages.dev&Referer=https://obiramtvlive.pages.dev/
-#EXTINF:-1 tvg-logo="https://pub-3fb1cc2150f14147985220b3653a34d1.r2.dev/Somoy%20TV.jpeg" group-title="MY BC",Somoy TV
-https://roar-obiram.emonsa4.workers.dev/play/50|Origin=https://obiramtvlive.pages.dev&Referer=https://obiramtvlive.pages.dev/
-#EXTINF:-1 tvg-logo="https://pub-3fb1cc2150f14147985220b3653a34d1.r2.dev/Ekattor%20TV.png" group-title="MY BC",Ekattor TV
-https://roar-obiram.emonsa4.workers.dev/play/51|Origin=https://obiramtvlive.pages.dev&Referer=https://obiramtvlive.pages.dev/
-#EXTINF:-1 tvg-logo="https://pub-3fb1cc2150f14147985220b3653a34d1.r2.dev/DBC%20News.png" group-title="MY BC",DBC News
-https://roar-obiram.emonsa4.workers.dev/play/52|Origin=https://obiramtvlive.pages.dev&Referer=https://obiramtvlive.pages.dev/
-#EXTINF:-1 tvg-logo="https://pub-3fb1cc2150f14147985220b3653a34d1.r2.dev/News%2024.png" group-title="MY BC",News24
-https://roar-obiram.emonsa4.workers.dev/play/53|Origin=https://obiramtvlive.pages.dev&Referer=https://obiramtvlive.pages.dev/
-#EXTINF:-1 tvg-logo="https://pub-3fb1cc2150f14147985220b3653a34d1.r2.dev/channel%2024.png" group-title="MY BC",Channel 24
-https://roar-obiram.emonsa4.workers.dev/play/54|Origin=https://obiramtvlive.pages.dev&Referer=https://obiramtvlive.pages.dev/
-#EXTINF:-1 tvg-logo="https://pub-3fb1cc2150f14147985220b3653a34d1.r2.dev/ATN%20News.png" group-title="MY BC",ATN News
-https://roar-obiram.emonsa4.workers.dev/play/55|Origin=https://obiramtvlive.pages.dev&Referer=https://obiramtvlive.pages.dev/
-#EXTINF:-1 tvg-logo="https://pub-3fb1cc2150f14147985220b3653a34d1.r2.dev/redforce/INDEPENDENT%20TV.png" group-title="MY BC",Independent TV
-https://roar-obiram.emonsa4.workers.dev/play/56|Origin=https://obiramtvlive.pages.dev&Referer=https://obiramtvlive.pages.dev/
-#EXTINF:-1 tvg-logo="https://pub-3fb1cc2150f14147985220b3653a34d1.r2.dev/Channel%20I.png" group-title="MY BC",Channel i
-https://roar-obiram.emonsa4.workers.dev/play/57|Origin=https://obiramtvlive.pages.dev&Referer=https://obiramtvlive.pages.dev/
-#EXTINF:-1 tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770188008067.png" group-title="MY BC",Channel 9 HD
-https://roar-obiram.emonsa4.workers.dev/play/58|Origin=https://obiramtvlive.pages.dev&Referer=https://obiramtvlive.pages.dev/
-#EXTINF:-1 tvg-logo="https://pub-3fb1cc2150f14147985220b3653a34d1.r2.dev/ATN%20Bangla.png" group-title="MY BC",ATN Bangla
-https://roar-obiram.emonsa4.workers.dev/play/59|Origin=https://obiramtvlive.pages.dev&Referer=https://obiramtvlive.pages.dev/
-#EXTINF:-1 tvg-logo="https://pub-3fb1cc2150f14147985220b3653a34d1.r2.dev/Maasranga%20TV.png" group-title="MY BC",Maasranga TV
-https://roar-obiram.emonsa4.workers.dev/play/60|Origin=https://obiramtvlive.pages.dev&Referer=https://obiramtvlive.pages.dev/
-#EXTINF:-1 tvg-logo="https://pub-3fb1cc2150f14147985220b3653a34d1.r2.dev/Ekhon%20TV.png" group-title="MY BC",Ekhon TV
-https://roar-obiram.emonsa4.workers.dev/play/61|Origin=https://obiramtvlive.pages.dev&Referer=https://obiramtvlive.pages.dev/
-#EXTINF:-1 tvg-logo="https://pub-3fb1cc2150f14147985220b3653a34d1.r2.dev/Bangla%20TV.png" group-title="MY BC",Bangla TV
-https://roar-obiram.emonsa4.workers.dev/play/62|Origin=https://obiramtvlive.pages.dev&Referer=https://obiramtvlive.pages.dev/
-#EXTINF:-1 tvg-logo="https://pub-3fb1cc2150f14147985220b3653a34d1.r2.dev/Ekushey%20TV.png" group-title="MY BC",Ekushey TV
-https://roar-obiram.emonsa4.workers.dev/play/63|Origin=https://obiramtvlive.pages.dev&Referer=https://obiramtvlive.pages.dev/
-#EXTINF:-1 tvg-logo="https://pub-3fb1cc2150f14147985220b3653a34d1.r2.dev/RTV.png" group-title="MY BC",RTV
-https://roar-obiram.emonsa4.workers.dev/play/64|Origin=https://obiramtvlive.pages.dev&Referer=https://obiramtvlive.pages.dev/
-#EXTINF:-1 tvg-logo="https://pub-3fb1cc2150f14147985220b3653a34d1.r2.dev/NTV.png" group-title="MY BC",NTV
-https://roar-obiram.emonsa4.workers.dev/play/65|Origin=https://obiramtvlive.pages.dev&Referer=https://obiramtvlive.pages.dev/
-#EXTINF:-1 tvg-logo="https://pub-3fb1cc2150f14147985220b3653a34d1.r2.dev/My%20TV.svg.png" group-title="MY BC",My TV
-https://roar-obiram.emonsa4.workers.dev/play/66|Origin=https://obiramtvlive.pages.dev&Referer=https://obiramtvlive.pages.dev/
-#EXTINF:-1 tvg-logo="https://pub-3fb1cc2150f14147985220b3653a34d1.r2.dev/Desh%20TV.png" group-title="MY BC",Desh TV
-https://roar-obiram.emonsa4.workers.dev/play/67|Origin=https://obiramtvlive.pages.dev&Referer=https://obiramtvlive.pages.dev/
-#EXTINF:-1 tvg-logo="https://pub-3fb1cc2150f14147985220b3653a34d1.r2.dev/SATV.png" group-title="MY BC",SATV
-https://roar-obiram.emonsa4.workers.dev/play/68|Origin=https://obiramtvlive.pages.dev&Referer=https://obiramtvlive.pages.dev/
-#EXTINF:-1 tvg-logo="https://pub-3fb1cc2150f14147985220b3653a34d1.r2.dev/redforce/boishakhi-tv-hd-bd.png" group-title="MY BC",Boishakhi TV
-https://roar-obiram.emonsa4.workers.dev/play/69|Origin=https://obiramtvlive.pages.dev&Referer=https://obiramtvlive.pages.dev/
-#EXTINF:-1 tvg-logo="https://pub-3fb1cc2150f14147985220b3653a34d1.r2.dev/Banglavision.png" group-title="MY BC",Banglavision
-https://roar-obiram.emonsa4.workers.dev/play/70|Origin=https://obiramtvlive.pages.dev&Referer=https://obiramtvlive.pages.dev/
-#EXTINF:-1 tvg-logo="https://pub-3fb1cc2150f14147985220b3653a34d1.r2.dev/Asian%20Tv.png" group-title="MY BC",Asian TV
-https://roar-obiram.emonsa4.workers.dev/play/71|Origin=https://obiramtvlive.pages.dev&Referer=https://obiramtvlive.pages.dev/
-#EXTINF:-1 tvg-logo="https://pub-3fb1cc2150f14147985220b3653a34d1.r2.dev/Anonoda%20Tv.png" group-title="MY BC",Ananda TV
-https://roar-obiram.emonsa4.workers.dev/play/72|Origin=https://obiramtvlive.pages.dev&Referer=https://obiramtvlive.pages.dev/
-#EXTINF:-1 tvg-logo="https://pub-3fb1cc2150f14147985220b3653a34d1.r2.dev/Bijoy%20TV.png" group-title="MY BC",Bijoy TV
-https://roar-obiram.emonsa4.workers.dev/play/73|Origin=https://obiramtvlive.pages.dev&Referer=https://obiramtvlive.pages.dev/
-#EXTINF:-1 tvg-logo="https://pub-3fb1cc2150f14147985220b3653a34d1.r2.dev/Mohona%20TV.png" group-title="MY BC",Mohona TV
-https://roar-obiram.emonsa4.workers.dev/play/74|Origin=https://obiramtvlive.pages.dev&Referer=https://obiramtvlive.pages.dev/
-#EXTINF:-1 tvg-logo="https://pub-3fb1cc2150f14147985220b3653a34d1.r2.dev/Deepto%20TV.jpeg" group-title="MY BC",Deepto TV
-https://roar-obiram.emonsa4.workers.dev/play/75|Origin=https://obiramtvlive.pages.dev&Referer=https://obiramtvlive.pages.dev/
-#EXTINF:-1 tvg-logo="https://pub-3fb1cc2150f14147985220b3653a34d1.r2.dev/Channel%20S.jpeg" group-title="MY BC",Channel S
-https://roar-obiram.emonsa4.workers.dev/play/76|Origin=https://obiramtvlive.pages.dev&Referer=https://obiramtvlive.pages.dev/
-#EXTINF:-1 tvg-logo="https://pub-3fb1cc2150f14147985220b3653a34d1.r2.dev/Duronto%20TV.jpeg" group-title="MY BC",Duronto TV
-https://roar-obiram.emonsa4.workers.dev/play/77|Origin=https://obiramtvlive.pages.dev&Referer=https://obiramtvlive.pages.dev/
-#EXTINF:-1 tvg-logo="https://pub-3fb1cc2150f14147985220b3653a34d1.r2.dev/Nexus%20TV.png" group-title="MY BC",Nexus TV
-https://roar-obiram.emonsa4.workers.dev/play/78|Origin=https://obiramtvlive.pages.dev&Referer=https://obiramtvlive.pages.dev/
-#EXTINF:-1 tvg-logo="https://pub-3fb1cc2150f14147985220b3653a34d1.r2.dev/redforce/Global%20Tv.png" group-title="MY BC",Global TV
-https://roar-obiram.emonsa4.workers.dev/play/79|Origin=https://obiramtvlive.pages.dev&Referer=https://obiramtvlive.pages.dev/
-#EXTINF:-1 tvg-logo="https://pub-3fb1cc2150f14147985220b3653a34d1.r2.dev/Sony%20TV.png" group-title="MY BC",Sony Entertainmnt HD
-https://roar-obiram.emonsa4.workers.dev/play/80|Origin=https://obiramtvlive.pages.dev&Referer=https://obiramtvlive.pages.dev/
-#EXTINF:-1 tvg-logo="https://pub-3fb1cc2150f14147985220b3653a34d1.r2.dev/And%20TV.png" group-title="MY BC",&TV
-https://roar-obiram.emonsa4.workers.dev/play/81|Origin=https://obiramtvlive.pages.dev&Referer=https://obiramtvlive.pages.dev/
-#EXTINF:-1 tvg-logo="https://pub-3fb1cc2150f14147985220b3653a34d1.r2.dev/Zee%20TV.png" group-title="MY BC",Ztv
-https://roar-obiram.emonsa4.workers.dev/play/82|Origin=https://obiramtvlive.pages.dev&Referer=https://obiramtvlive.pages.dev/
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Gpz6FLrP/20240823_023114.png" group-title="MY BC",Sony Sab HD
-https://roar-obiram.emonsa4.workers.dev/play/83|Origin=https://obiramtvlive.pages.dev&Referer=https://obiramtvlive.pages.dev/
-#EXTINF:-1 tvg-logo="https://pub-3fb1cc2150f14147985220b3653a34d1.r2.dev/redforce/ZEE%20CAFE%20HD.png" group-title="MY BC",ZEE CAFE HD
-https://roar-obiram.emonsa4.workers.dev/play/84|Origin=https://obiramtvlive.pages.dev&Referer=https://obiramtvlive.pages.dev/
-#EXTINF:-1 tvg-logo="https://pub-3fb1cc2150f14147985220b3653a34d1.r2.dev/redforce/colors-hd-in.png" group-title="MY BC",Colors HD
-https://roar-obiram.emonsa4.workers.dev/play/85|Origin=https://obiramtvlive.pages.dev&Referer=https://obiramtvlive.pages.dev/
-#EXTINF:-1 tvg-logo="https://pub-3fb1cc2150f14147985220b3653a34d1.r2.dev/redforce/STAR%20PLUS%20HD.png" group-title="MY BC",STAR PLUS HD
-https://roar-obiram.emonsa4.workers.dev/play/86|Origin=https://obiramtvlive.pages.dev&Referer=https://obiramtvlive.pages.dev/
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/YS3BdNNW/20240823_022655.png" group-title="MY BC",Sony Max HD
-https://roar-obiram.emonsa4.workers.dev/play/87|Origin=https://obiramtvlive.pages.dev&Referer=https://obiramtvlive.pages.dev/
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/hP59QSrm/20240825_075205.png" group-title="MY BC",Sony Max 2
-https://roar-obiram.emonsa4.workers.dev/play/88|Origin=https://obiramtvlive.pages.dev&Referer=https://obiramtvlive.pages.dev/
-#EXTINF:-1 tvg-logo="https://cdnhost.akashbd.net/assets/uploads/channels_images/1750068080-37341822.png?v=10.5.11" group-title="MY BC",Zee Cinema HD
-https://roar-obiram.emonsa4.workers.dev/play/89|Origin=https://obiramtvlive.pages.dev&Referer=https://obiramtvlive.pages.dev/
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/XJ1SbVzN/20240823_022738.png" group-title="MY BC",& Picture
-https://roar-obiram.emonsa4.workers.dev/play/90|Origin=https://obiramtvlive.pages.dev&Referer=https://obiramtvlive.pages.dev/
-#EXTINF:-1 tvg-logo="https://pub-3fb1cc2150f14147985220b3653a34d1.r2.dev/redforce/zee-bollywood-in.png" group-title="MY BC",Zee Bollywood
-https://roar-obiram.emonsa4.workers.dev/play/91|Origin=https://obiramtvlive.pages.dev&Referer=https://obiramtvlive.pages.dev/
-#EXTINF:-1 tvg-logo="https://pub-3fb1cc2150f14147985220b3653a34d1.r2.dev/redforce/zee-action-in.png" group-title="MY BC",Zee Action
-https://roar-obiram.emonsa4.workers.dev/play/92|Origin=https://obiramtvlive.pages.dev&Referer=https://obiramtvlive.pages.dev/
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/Zee_Anmol_Cinema_logo.png" group-title="MY BC",Zee Anmol Cinema
-https://roar-obiram.emonsa4.workers.dev/play/93|Origin=https://obiramtvlive.pages.dev&Referer=https://obiramtvlive.pages.dev/
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/13nLvxQx/20250630_050504.png" group-title="MY BC",B4U Movie
-https://roar-obiram.emonsa4.workers.dev/play/94|Origin=https://obiramtvlive.pages.dev&Referer=https://obiramtvlive.pages.dev/
-#EXTINF:-1 tvg-logo="https://pub-3fb1cc2150f14147985220b3653a34d1.r2.dev/redforce/b4u-kadak-in.png" group-title="MY BC",B4U Kadak
-https://roar-obiram.emonsa4.workers.dev/play/95|Origin=https://obiramtvlive.pages.dev&Referer=https://obiramtvlive.pages.dev/
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/7ZNqRywh/20240823-023440.png" group-title="MY BC",Gold Mines
-https://roar-obiram.emonsa4.workers.dev/play/96|Origin=https://obiramtvlive.pages.dev&Referer=https://obiramtvlive.pages.dev/
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/7ZNqRywh/20240823-023440.png" group-title="MY BC",Gold Mines Movie
-https://roar-obiram.emonsa4.workers.dev/play/97|Origin=https://obiramtvlive.pages.dev&Referer=https://obiramtvlive.pages.dev/
-#EXTINF:-1 tvg-logo="https://pub-3fb1cc2150f14147985220b3653a34d1.r2.dev/1786099384117-f77f3330-Goldmines_bo.jpeg" group-title="MY BC",Gold Mines Bollywood
-https://roar-obiram.emonsa4.workers.dev/play/98|Origin=https://obiramtvlive.pages.dev&Referer=https://obiramtvlive.pages.dev/
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/tC7JLFj0/20240825_055845.png" group-title="MY BC",Shemarooenterta
-https://roar-obiram.emonsa4.workers.dev/play/99|Origin=https://obiramtvlive.pages.dev&Referer=https://obiramtvlive.pages.dev/
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dbjnG3X/20240803-105403.png" group-title="MY BC",E24
-https://roar-obiram.emonsa4.workers.dev/play/100|Origin=https://obiramtvlive.pages.dev&Referer=https://obiramtvlive.pages.dev/
-#EXTINF:-1 tvg-logo="https://pub-3fb1cc2150f14147985220b3653a34d1.r2.dev/redforce/NICK%20JR.png" group-title="MY BC",Nick Jr
-https://roar-obiram.emonsa4.workers.dev/play/101|Origin=https://obiramtvlive.pages.dev&Referer=https://obiramtvlive.pages.dev/
-#EXTINF:-1 tvg-logo="https://pub-3fb1cc2150f14147985220b3653a34d1.r2.dev/Al%20Jazeera%20.png" group-title="MY BC",Al Jazeera
-https://roar-obiram.emonsa4.workers.dev/play/102|Origin=https://obiramtvlive.pages.dev&Referer=https://obiramtvlive.pages.dev/
-#EXTINF:-1 tvg-logo="https://pub-3fb1cc2150f14147985220b3653a34d1.r2.dev/redforce/MADANI%20TV%20HD.png" group-title="MY BC",Madani Channel
-https://roar-obiram.emonsa4.workers.dev/play/103|Origin=https://obiramtvlive.pages.dev&Referer=https://obiramtvlive.pages.dev/
-#EXTINF:-1 tvg-logo="https://pub-3fb1cc2150f14147985220b3653a34d1.r2.dev/Channel%20S.jpeg" group-title="MY BC",Sunnah TV
-https://roar-obiram.emonsa4.workers.dev/play/104|Origin=https://obiramtvlive.pages.dev&Referer=https://obiramtvlive.pages.dev/
-#EXTINF:-1 tvg-logo="https://pub-3fb1cc2150f14147985220b3653a34d1.r2.dev/AXN.png" group-title="MY BC",AXN
-https://roar-obiram.emonsa4.workers.dev/play/105|Origin=https://obiramtvlive.pages.dev&Referer=https://obiramtvlive.pages.dev/
-#EXTINF:-1 tvg-logo="https://pub-3fb1cc2150f14147985220b3653a34d1.r2.dev/redforce/LOVE%20NATURE.png" group-title="MY BC",Love Nature
-https://roar-obiram.emonsa4.workers.dev/play/106|Origin=https://obiramtvlive.pages.dev&Referer=https://obiramtvlive.pages.dev/
-#EXTINF:-1 tvg-logo="https://pub-3fb1cc2150f14147985220b3653a34d1.r2.dev/1784707448912-4c02dde8-Willow_Cricket.png" group-title="MY BC",WILLOW CRICKET HD
-https://roar-obiram.emonsa4.workers.dev/play/107|Origin=https://obiramtvlive.pages.dev&Referer=https://obiramtvlive.pages.dev/
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/dV8vWdGq/20260710-112953.png" group-title="MY BC",WILLOW CRICKET 2 HD
-https://roar-obiram.emonsa4.workers.dev/play/108|Origin=https://obiramtvlive.pages.dev&Referer=https://obiramtvlive.pages.dev/
-#EXTINF:-1 tvg-logo="https://pub-3fb1cc2150f14147985220b3653a34d1.r2.dev/A%20Sports.png" group-title="MY BC",A sports
-https://roar-obiram.emonsa4.workers.dev/play/109|Origin=https://obiramtvlive.pages.dev&Referer=https://obiramtvlive.pages.dev/
-#EXTINF:-1 tvg-logo="https://pub-3fb1cc2150f14147985220b3653a34d1.r2.dev/Eurosport.png" group-title="MY BC",EUROSPORTS HD
-https://roar-obiram.emonsa4.workers.dev/play/110|Origin=https://obiramtvlive.pages.dev&Referer=https://obiramtvlive.pages.dev/
-#EXTINF:-1 tvg-logo="https://pub-3fb1cc2150f14147985220b3653a34d1.r2.dev/Ten-Cricket.png" group-title="MY BC",tencricket
-https://roar-obiram.emonsa4.workers.dev/play/111|Origin=https://obiramtvlive.pages.dev&Referer=https://obiramtvlive.pages.dev/
-#EXTINF:-1 tvg-logo="https://pub-3fb1cc2150f14147985220b3653a34d1.r2.dev/PTV%20Sports.png" group-title="MY BC",PTV SPORTS HD
-https://roar-obiram.emonsa4.workers.dev/play/112|Origin=https://obiramtvlive.pages.dev&Referer=https://obiramtvlive.pages.dev/
-#EXTINF:-1 tvg-logo="https://pub-3fb1cc2150f14147985220b3653a34d1.r2.dev/Ten-Cricket.png" group-title="MY BC",TEN SPORTS HD
-https://roar-obiram.emonsa4.workers.dev/play/113|Origin=https://obiramtvlive.pages.dev&Referer=https://obiramtvlive.pages.dev/
-#EXTINF:-1 tvg-logo="http://alixbd.com/assets/images/sonysports1.png" group-title="MY BC",sonysports1
-https://roar-obiram.emonsa4.workers.dev/play/114|Origin=https://obiramtvlive.pages.dev&Referer=https://obiramtvlive.pages.dev/
-#EXTINF:-1 tvg-logo="http://alixbd.com/assets/images/sonysports2.png" group-title="MY BC",sonysports2
-https://roar-obiram.emonsa4.workers.dev/play/115|Origin=https://obiramtvlive.pages.dev&Referer=https://obiramtvlive.pages.dev/
-#EXTINF:-1 tvg-logo="http://alixbd.com/assets/images/sonysports3.png" group-title="MY BC",sonysports3
-https://roar-obiram.emonsa4.workers.dev/play/116|Origin=https://obiramtvlive.pages.dev&Referer=https://obiramtvlive.pages.dev/
-#EXTINF:-1 tvg-logo="http://alixbd.com/assets/images/sonysports5.png" group-title="MY BC",sonysports5
-https://roar-obiram.emonsa4.workers.dev/play/117|Origin=https://obiramtvlive.pages.dev&Referer=https://obiramtvlive.pages.dev/
-#EXTINF:-1 tvg-logo="https://pub-3fb1cc2150f14147985220b3653a34d1.r2.dev/Star%20Sports%201%40.jpeg" group-title="MY BC",STAR SPORTS 1
-https://roar-obiram.emonsa4.workers.dev/play/118|Origin=https://obiramtvlive.pages.dev&Referer=https://obiramtvlive.pages.dev/
-#EXTINF:-1 tvg-logo="http://alixbd.com/assets/images/starselect1.png" group-title="MY BC",Star-select-1
-https://roar-obiram.emonsa4.workers.dev/play/119|Origin=https://obiramtvlive.pages.dev&Referer=https://obiramtvlive.pages.dev/
-#EXTINF:-1 tvg-logo="http://alixbd.com/assets/images/starselect2.png" group-title="MY BC",Star-select-2
-https://roar-obiram.emonsa4.workers.dev/play/120|Origin=https://obiramtvlive.pages.dev&Referer=https://obiramtvlive.pages.dev/
-#EXTINF:-1 tvg-logo="https://pub-3fb1cc2150f14147985220b3653a34d1.r2.dev/Star%20Sports%202%40.jpeg" group-title="MY BC",Star-sports-2
-https://roar-obiram.emonsa4.workers.dev/play/121|Origin=https://obiramtvlive.pages.dev&Referer=https://obiramtvlive.pages.dev/

@@ -2,7 +2,7 @@
   {
     "category": "News",
     "name": "Somoy tv",
-    "link": "https://owrcovcrpy.gpcdn.net/bpk-tv/1713/output/index.m3u8",
+    "link": "https://akash.sm-monirul-islam-rs.workers.dev/ak/somoy_tv/index.m3u8",
     "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1784629064327.png",
     "cookie": "",
     "user_agent": "okhttp/4.11.0"
@@ -10,7 +10,7 @@
   {
     "category": "News",
     "name": "Jamuna TV",
-    "link": "https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/index.m3u8",
+    "link": "https://akash.sm-monirul-islam-rs.workers.dev/ak/jamuna_tv/index.m3u8",
     "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1735560213832.png",
     "cookie": "",
     "user_agent": "okhttp/4.11.0"
@@ -18,23 +18,15 @@
   {
     "category": "News",
     "name": "Independent TV",
-    "link": "https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/index.m3u8",
+    "link": "https://akash.sm-monirul-islam-rs.workers.dev/ak/independent_tv/index.m3u8",
     "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1739964387847.png",
     "cookie": "",
     "user_agent": "okhttp/4.11.0"
   },
   {
     "category": "News",
-    "name": "DBC News HD",
-    "link": "https://owrcovcrpy.gpcdn.net/bpk-tv/1728/output/index.m3u8",
-    "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1770186306600.png",
-    "cookie": "",
-    "user_agent": "okhttp/4.11.0"
-  },
-  {
-    "category": "News",
     "name": "BTV Shangshad",
-    "link": "https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8",
+    "link": "https://akash.sm-monirul-islam-rs.workers.dev/ak/btv_shangshad/index.m3u8",
     "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1773247382366.png",
     "cookie": "",
     "user_agent": "okhttp/4.11.0"
@@ -42,7 +34,7 @@
   {
     "category": "News",
     "name": "Ekattor HD",
-    "link": "https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/index.m3u8",
+    "link": "https://akash.sm-monirul-islam-rs.workers.dev/ak/ekattor_hd/index.m3u8",
     "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1739963327549.png",
     "cookie": "",
     "user_agent": "okhttp/4.11.0"
@@ -50,7 +42,7 @@
   {
     "category": "News",
     "name": "Channel 24 HD",
-    "link": "https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/index.m3u8",
+    "link": "https://akash.sm-monirul-islam-rs.workers.dev/ak/channel_24_hd/index.m3u8",
     "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1735556516924.png",
     "cookie": "",
     "user_agent": "okhttp/4.11.0"
@@ -58,15 +50,23 @@
   {
     "category": "Entertainment",
     "name": "BTV",
-    "link": "https://owrcovcrpy.gpcdn.net/bpk-tv/1725/output/index.m3u8",
+    "link": "https://akash.sm-monirul-islam-rs.workers.dev/ak/btv/index.m3u8",
     "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1784629845642.png",
+    "cookie": "",
+    "user_agent": "okhttp/4.11.0"
+  },
+  {
+    "category": "News",
+    "name": "DBC News HD",
+    "link": "https://akash.sm-monirul-islam-rs.workers.dev/ak/dbc_news_hd/index.m3u8",
+    "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1770186306600.png",
     "cookie": "",
     "user_agent": "okhttp/4.11.0"
   },
   {
     "category": "Entertainment",
     "name": "Maasranga TV",
-    "link": "https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/index.m3u8",
+    "link": "https://akash.sm-monirul-islam-rs.workers.dev/ak/maasranga_tv/index.m3u8",
     "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1773680325498.png",
     "cookie": "",
     "user_agent": "okhttp/4.11.0"
@@ -74,7 +74,7 @@
   {
     "category": "Sports",
     "name": "Crazy Ex",
-    "link": "https://nomawnoijl.gpcdn.net/akash/crazy_ex/playlist.m3u8",
+    "link": "https://akash.sm-monirul-islam-rs.workers.dev/ak/crazy_ex/index.m3u8",
     "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1770348753896.png",
     "cookie": "",
     "user_agent": "okhttp/4.11.0"
@@ -82,31 +82,39 @@
   {
     "category": "Sports",
     "name": "Sports Range",
-    "link": "https://nomawnoijl.gpcdn.net/akash/sportrange/playlist.m3u8",
+    "link": "https://akash.sm-monirul-islam-rs.workers.dev/ak/sports_range/index.m3u8",
     "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1770380601958.png",
     "cookie": "",
     "user_agent": "okhttp/4.11.0"
   },
   {
     "category": "Entertainment",
-    "name": "Channel 9 HD",
-    "link": "https://owrcovcrpy.gpcdn.net/bpk-tv/1729/output/index.m3u8",
-    "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1770188008067.png",
-    "cookie": "",
-    "user_agent": "okhttp/4.11.0"
-  },
-  {
-    "category": "Entertainment",
     "name": "Deepto TV HD",
-    "link": "https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/index.m3u8",
+    "link": "https://akash.sm-monirul-islam-rs.workers.dev/ak/deepto_tv_hd/index.m3u8",
     "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1742713000749.png",
     "cookie": "",
     "user_agent": "okhttp/4.11.0"
   },
   {
     "category": "Entertainment",
+    "name": "Channel 9 HD",
+    "link": "https://akash.sm-monirul-islam-rs.workers.dev/ak/channel_9_hd/index.m3u8",
+    "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1770188008067.png",
+    "cookie": "",
+    "user_agent": "okhttp/4.11.0"
+  },
+  {
+    "category": "Entertainment",
+    "name": "Channel I HD",
+    "link": "https://akash.sm-monirul-islam-rs.workers.dev/ak/channel_i_hd/index.m3u8",
+    "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1740567626692.png",
+    "cookie": "",
+    "user_agent": "okhttp/4.11.0"
+  },
+  {
+    "category": "Entertainment",
     "name": "NTV",
-    "link": "https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8",
+    "link": "https://akash.sm-monirul-islam-rs.workers.dev/ak/ntv/index.m3u8",
     "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1735560841094.png",
     "cookie": "",
     "user_agent": "okhttp/4.11.0"
@@ -114,47 +122,15 @@
   {
     "category": "News",
     "name": "Al Jazeera",
-    "link": "https://owrcovcrpy.gpcdn.net/bpk-tv/1721/output/index.m3u8",
+    "link": "https://akash.sm-monirul-islam-rs.workers.dev/ak/al_jazeera/index.m3u8",
     "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1735547218986.png",
-    "cookie": "",
-    "user_agent": "okhttp/4.11.0"
-  },
-  {
-    "category": "Entertainment",
-    "name": "Channel I HD",
-    "link": "https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/index.m3u8",
-    "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1740567626692.png",
-    "cookie": "",
-    "user_agent": "okhttp/4.11.0"
-  },
-  {
-    "category": "Entertainment",
-    "name": "Bangla Vision",
-    "link": "https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/index.m3u8",
-    "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1788231546532.png",
-    "cookie": "",
-    "user_agent": "okhttp/4.11.0"
-  },
-  {
-    "category": "Sports",
-    "name": "Sports Legends",
-    "link": "https://nomawnoijl.gpcdn.net/akash/sportslegends/playlist.m3u8",
-    "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1770377900139.png",
-    "cookie": "",
-    "user_agent": "okhttp/4.11.0"
-  },
-  {
-    "category": "Music",
-    "name": "Party Universe",
-    "link": "https://nomawnoijl.gpcdn.net/akash/partyuniverse/playlist.m3u8",
-    "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1770378215384.png",
     "cookie": "",
     "user_agent": "okhttp/4.11.0"
   },
   {
     "category": "Sports",
     "name": "Thunder Er",
-    "link": "https://nomawnoijl.gpcdn.net/akash/thunder/playlist.m3u8",
+    "link": "https://akash.sm-monirul-islam-rs.workers.dev/ak/thunder_er/index.m3u8",
     "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1770380791303.png",
     "cookie": "",
     "user_agent": "okhttp/4.11.0"
@@ -162,15 +138,39 @@
   {
     "category": "Sports",
     "name": "Fighters",
-    "link": "https://nomawnoijl.gpcdn.net/akash/fighter/playlist.m3u8",
+    "link": "https://akash.sm-monirul-islam-rs.workers.dev/ak/fighters/index.m3u8",
     "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1770380942670.png",
+    "cookie": "",
+    "user_agent": "okhttp/4.11.0"
+  },
+  {
+    "category": "Entertainment",
+    "name": "Bangla Vision",
+    "link": "https://akash.sm-monirul-islam-rs.workers.dev/ak/bangla_vision/index.m3u8",
+    "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1788231546532.png",
+    "cookie": "",
+    "user_agent": "okhttp/4.11.0"
+  },
+  {
+    "category": "Music",
+    "name": "Party Universe",
+    "link": "https://akash.sm-monirul-islam-rs.workers.dev/ak/party_universe/index.m3u8",
+    "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1770378215384.png",
+    "cookie": "",
+    "user_agent": "okhttp/4.11.0"
+  },
+  {
+    "category": "Sports",
+    "name": "Sports Legends",
+    "link": "https://akash.sm-monirul-islam-rs.workers.dev/ak/sports_legends/index.m3u8",
+    "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1770377900139.png",
     "cookie": "",
     "user_agent": "okhttp/4.11.0"
   },
   {
     "category": "Sports",
     "name": "Flash Guys HD",
-    "link": "https://nomawnoijl.gpcdn.net/akash/flashguys/playlist.m3u8",
+    "link": "https://akash.sm-monirul-islam-rs.workers.dev/ak/flash_guys_hd/index.m3u8",
     "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1770378074527.png",
     "cookie": "",
     "user_agent": "okhttp/4.11.0"
@@ -178,96 +178,160 @@
   {
     "category": "Entertainment",
     "name": "SRK TV",
-    "link": "https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8",
+    "link": "https://akash.sm-monirul-islam-rs.workers.dev/ak/srk_tv/index.m3u8",
     "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1746005940155.png",
-    "cookie": "",
-    "user_agent": "okhttp/4.11.0"
-  },
-  {
-    "category": "Kids",
-    "name": "Nikki",
-    "link": "https://nomawnoijl.gpcdn.net/akash/nikky/playlist.m3u8",
-    "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1770378704923.png",
     "cookie": "",
     "user_agent": "okhttp/4.11.0"
   },
   {
     "category": "News",
     "name": "Channel 1",
-    "link": "https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8",
+    "link": "https://akash.sm-monirul-islam-rs.workers.dev/ak/channel_1/index.m3u8",
     "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1781163068414.png",
     "cookie": "",
     "user_agent": "okhttp/4.11.0"
   },
   {
-    "category": "Movies",
-    "name": "Originals",
-    "link": "https://nomawnoijl.gpcdn.net/akash/originals/playlist.m3u8",
-    "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1770313122372.png",
-    "cookie": "",
-    "user_agent": "okhttp/4.11.0"
-  },
-  {
     "category": "Kids",
-    "name": "Joy",
-    "link": "https://nomawnoijl.gpcdn.net/akash/joy/playlist.m3u8",
-    "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1770378874717.png",
+    "name": "Nikki",
+    "link": "https://akash.sm-monirul-islam-rs.workers.dev/ak/nikki/index.m3u8",
+    "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1770378704923.png",
     "cookie": "",
     "user_agent": "okhttp/4.11.0"
   },
   {
     "category": "Infotainment",
     "name": "Delicious",
-    "link": "https://nomawnoijl.gpcdn.net/akash/delicious/playlist.m3u8",
+    "link": "https://akash.sm-monirul-islam-rs.workers.dev/ak/delicious/index.m3u8",
     "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1770378370876.png",
     "cookie": "",
     "user_agent": "okhttp/4.11.0"
   },
   {
-    "category": "Kids",
-    "name": "Funny Junior HD",
-    "link": "https://nomawnoijl.gpcdn.net/akash/funnyjunior/playlist.m3u8",
-    "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1770379573329.png",
+    "category": "Movies",
+    "name": "Originals",
+    "link": "https://akash.sm-monirul-islam-rs.workers.dev/ak/originals/index.m3u8",
+    "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1770313122372.png",
     "cookie": "",
     "user_agent": "okhttp/4.11.0"
   },
   {
     "category": "Kids",
     "name": "Kids Stars",
-    "link": "https://nomawnoijl.gpcdn.net/akash/kidsstars/playlist.m3u8",
+    "link": "https://akash.sm-monirul-islam-rs.workers.dev/ak/kids_stars/index.m3u8",
     "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1770381398090.png",
+    "cookie": "",
+    "user_agent": "okhttp/4.11.0"
+  },
+  {
+    "category": "Kids",
+    "name": "Funny Junior HD",
+    "link": "https://akash.sm-monirul-islam-rs.workers.dev/ak/funny_junior_hd/index.m3u8",
+    "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1770379573329.png",
     "cookie": "",
     "user_agent": "okhttp/4.11.0"
   },
   {
     "category": "Movies",
     "name": "Cineedge HD",
-    "link": "https://nomawnoijl.gpcdn.net/akash/cineedge/playlist.m3u8",
+    "link": "https://akash.sm-monirul-islam-rs.workers.dev/ak/cineedge_hd/index.m3u8",
     "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1770347851305.png",
     "cookie": "",
     "user_agent": "okhttp/4.11.0"
   },
   {
-    "category": "Movies",
-    "name": "Crimes",
-    "link": "https://nomawnoijl.gpcdn.net/akash/crimes/playlist.m3u8",
-    "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1770380126540.png",
-    "cookie": "",
-    "user_agent": "okhttp/4.11.0"
-  },
-  {
-    "category": "Movies",
-    "name": "Screem",
-    "link": "https://nomawnoijl.gpcdn.net/akash/screem/playlist.m3u8",
-    "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1770312098339.png",
+    "category": "Kids",
+    "name": "Joy",
+    "link": "https://akash.sm-monirul-islam-rs.workers.dev/ak/joy/index.m3u8",
+    "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1770378874717.png",
     "cookie": "",
     "user_agent": "okhttp/4.11.0"
   },
   {
     "category": "Movies",
     "name": "Superrix HD",
-    "link": "https://nomawnoijl.gpcdn.net/akash/superrix/playlist.m3u8",
+    "link": "https://akash.sm-monirul-islam-rs.workers.dev/ak/superrix_hd/index.m3u8",
     "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1770348388925.png",
+    "cookie": "",
+    "user_agent": "okhttp/4.11.0"
+  },
+  {
+    "category": "Movies",
+    "name": "Screem",
+    "link": "https://akash.sm-monirul-islam-rs.workers.dev/ak/screem/index.m3u8",
+    "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1770312098339.png",
+    "cookie": "",
+    "user_agent": "okhttp/4.11.0"
+  },
+  {
+    "category": "Movies",
+    "name": "Uniques HD",
+    "link": "https://akash.sm-monirul-islam-rs.workers.dev/ak/uniques_hd/index.m3u8",
+    "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1770347327658.png",
+    "cookie": "",
+    "user_agent": "okhttp/4.11.0"
+  },
+  {
+    "category": "Movies",
+    "name": "Crimes",
+    "link": "https://akash.sm-monirul-islam-rs.workers.dev/ak/crimes/index.m3u8",
+    "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1770380126540.png",
+    "cookie": "",
+    "user_agent": "okhttp/4.11.0"
+  },
+  {
+    "category": "Movies",
+    "name": "Intelligence",
+    "link": "https://akash.sm-monirul-islam-rs.workers.dev/ak/intelligence/index.m3u8",
+    "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1770380460488.png",
+    "cookie": "",
+    "user_agent": "okhttp/4.11.0"
+  },
+  {
+    "category": "Kids",
+    "name": "BuddyStar HD",
+    "link": "https://akash.sm-monirul-islam-rs.workers.dev/ak/buddystar_hd/index.m3u8",
+    "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1770379038530.png",
+    "cookie": "",
+    "user_agent": "okhttp/4.11.0"
+  },
+  {
+    "category": "Infotainment",
+    "name": "Luxell HD",
+    "link": "https://akash.sm-monirul-islam-rs.workers.dev/ak/luxell_hd/index.m3u8",
+    "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1770378560772.png",
+    "cookie": "",
+    "user_agent": "okhttp/4.11.0"
+  },
+  {
+    "category": "Kids",
+    "name": "Lucky Family",
+    "link": "https://akash.sm-monirul-islam-rs.workers.dev/ak/lucky_family/index.m3u8",
+    "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1770381248531.png",
+    "cookie": "",
+    "user_agent": "okhttp/4.11.0"
+  },
+  {
+    "category": "Kids",
+    "name": "Smarty",
+    "link": "https://akash.sm-monirul-islam-rs.workers.dev/ak/smarty/index.m3u8",
+    "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1770381107924.png",
+    "cookie": "",
+    "user_agent": "okhttp/4.11.0"
+  },
+  {
+    "category": "Movies",
+    "name": "True Stories",
+    "link": "https://akash.sm-monirul-islam-rs.workers.dev/ak/true_stories/index.m3u8",
+    "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1770380306806.png",
+    "cookie": "",
+    "user_agent": "okhttp/4.11.0"
+  },
+  {
+    "category": "Infotainment",
+    "name": "Program Promo",
+    "link": "https://akash.sm-monirul-islam-rs.workers.dev/ak/program_promo/index.m3u8",
+    "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1783925099346.png",
     "cookie": "",
     "user_agent": "okhttp/4.11.0"
   },

@@ -9,6 +9,7 @@ https://ay-obiram.emonsa4.workers.dev/btv-news.m3u8|Origin=https://obiramtvlive.
 #EXTINF:-1 tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-06-24/b994ae24dd627fb8b680e5cd654d1e9c.jpg" group-title="MY BC",BTV CTG
 https://ay-obiram.emonsa4.workers.dev/btv-ctg.m3u8|Origin=https://obiramtvlive.pages.dev&Referer=https://obiramtvlive.pages.dev/
 #EXTINF:-1 tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-13/images_8b38d691dfaf072e6c964dea814a44ba_playmist_t_sports_hd400x400.jpg" group-title="MY BC",T Sports HD
+#EXT-X-MEDIA:TYPE=VIDEO,GROUP-ID="group",NAME="Server 2",URI="https://xstream736.emonsa798.workers.dev/live/408.ts"
 https://ay-obiram.emonsa4.workers.dev/t-sports-hd.m3u8|Origin=https://obiramtvlive.pages.dev&Referer=https://obiramtvlive.pages.dev/
 #EXTINF:-1 tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-02/images_4c788f2e0bc6f83a4fdde6022843368a_playmist_atn_news_400x400.jpg" group-title="MY BC",ATN News
 #EXT-X-MEDIA:TYPE=VIDEO,GROUP-ID="group",NAME="Server 2",URI="https://toffee-obiramtv.emonsa4.workers.dev/atn-news.m3u8"
@@ -44,8 +45,9 @@ https://ay-obiram.emonsa4.workers.dev/ntv.m3u8|Origin=https://obiramtvlive.pages
 #EXTINF:-1 tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-06-28/images_7eb39c04f7cf7ab782e6324c484d93e5_playmist_ntv_europe_400x400.jpg" group-title="MY BC",NTV Europe
 https://ay-obiram.emonsa4.workers.dev/ntv-europe.m3u8|Origin=https://obiramtvlive.pages.dev&Referer=https://obiramtvlive.pages.dev/
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" group-title="MY BC",Star Jalsha
-#EXT-X-MEDIA:TYPE=VIDEO,GROUP-ID="group",NAME="Server 2",URI="https://sm-monirul.top/@monirul_Islam_SM/stream.php?id=star_jalsha&formet=.m3u8"
-https://yupptvcatchupire.yuppcdn.net/preview/starjalsha/1800.m3u8|Origin=https://obiramtvlive.pages.dev&Referer=https://obiramtvlive.pages.dev/
+#EXT-X-MEDIA:TYPE=VIDEO,GROUP-ID="group",NAME="Server 2",URI="https://xstream736.emonsa798.workers.dev/live/448.ts"
+#EXT-X-MEDIA:TYPE=VIDEO,GROUP-ID="group",NAME="Server 3",URI="https://yupptvcatchupire.yuppcdn.net/preview/starjalsha/1800.m3u8"
+https://xstream736.emonsa798.workers.dev/live/449.ts|Origin=https://obiramtvlive.pages.dev&Referer=https://obiramtvlive.pages.dev/
 #EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/kK2aX5UBrjBfS2_RBcKf/posters/ba5dd8dc-4f87-414a-b57f-c9ecdeda5253.png" group-title="MY BC",Zee Bangla
 https://toffee-obiramtv.emonsa4.workers.dev/zee-bangla.m3u8|Origin=https://obiramtvlive.pages.dev&Referer=https://obiramtvlive.pages.dev/
 #EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/-C7MX5UBv9knK3AHdKOi/posters/e37fef13-9bf3-4ecc-8b74-fca091874fa0.png" group-title="MY BC",Zee Bangla Cinema

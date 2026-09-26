@@ -110,6 +110,8 @@ https://ay-obiram.emonsa4.workers.dev/gazi-tv.m3u8|Origin=https://obiramtvlive.p
 #EXTINF:-1 tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-02/images_c852d6eba40e680a258e9e18aff2d9f2_playmist_desh_tv_400x400.jpg" group-title="MY BC",Desh TV
 #EXT-X-MEDIA:TYPE=VIDEO,GROUP-ID="group",NAME="Server 2",URI="https://toffee-obiramtv.emonsa4.workers.dev/desh-tv.m3u8"
 https://ay-obiram.emonsa4.workers.dev/desh-tv.m3u8|Origin=https://obiramtvlive.pages.dev&Referer=https://obiramtvlive.pages.dev/
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/3JlJn-DN-H_pvVPOQKSYztOEM5BpeMBrP73UYWwsAKATSgIkfiGuMDNXgVAds5lfY6227t0g8g=s900-c-k-c0x00ffffff-no-rj" group-title="MY BC",Desh Bangla Tv
+https://play-gencdn.easypecker.com/gencdn/glaxytv/index.m3u8|Origin=https://obiramtvlive.pages.dev&Referer=https://obiramtvlive.pages.dev/
 #EXTINF:-1 tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-02/images_8a69251df11b66c4e85e7a2fe6d89286_playmist_boishakhi_tv_400x400.jpg" group-title="MY BC",Boishakhi TV
 https://ay-obiram.emonsa4.workers.dev/boishakhi-tv.m3u8|Origin=https://obiramtvlive.pages.dev&Referer=https://obiramtvlive.pages.dev/
 #EXTINF:-1 tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-02/images_0f3afa480f77dd7d97d49b449a05f3fa_playmist_channel_9_400x400.jpg" group-title="MY BC",Channel 9
@@ -152,6 +154,12 @@ https://ay-obiram.emonsa4.workers.dev/drama-24.m3u8|Origin=https://obiramtvlive.
 #EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/CXz4PJwBcqxnFHJBPwrG/posters/2f913e34-3a6c-45e6-9f1f-97bf129a2ff5.png" group-title="MY BC",Movie Bangla
 #EXT-X-MEDIA:TYPE=VIDEO,GROUP-ID="group",NAME="Server 2",URI="https://ay-obiram.emonsa4.workers.dev/movie-bangla.m3u8"
 https://toffee-obiramtv.emonsa4.workers.dev/movie-bangla.m3u8|Origin=https://obiramtvlive.pages.dev&Referer=https://obiramtvlive.pages.dev/
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/saemon068/iptv-auto-scraper/refs/heads/main/ranacablelgo/Picsart_26-07-03_17-41-59-483.png" group-title="MY BC",Rana Cable Tv
+https://ranacable.duckdns.org/RanaCableTV/index.m3u8|Origin=https://obiramtvlive.pages.dev&Referer=https://obiramtvlive.pages.dev/
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/saemon068/iptv-auto-scraper/refs/heads/main/ranacablelgo/Picsart_26-07-03_17-41-59-483.png" group-title="MY BC",Rana Cable Movie
+https://ranacable.duckdns.org/RanaMovie/tracks-v1a1/mono.m3u8|Origin=https://obiramtvlive.pages.dev&Referer=https://obiramtvlive.pages.dev/
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/saemon068/iptv-auto-scraper/refs/heads/main/ranacablelgo/Picsart_26-07-03_17-41-02-882.png" group-title="MY BC",Rana Cable Music
+https://ranacable.duckdns.org/RanaCableMusic/index.m3u8|Origin=https://obiramtvlive.pages.dev&Referer=https://obiramtvlive.pages.dev/
 #EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/IC5_-JQBv9knK3AHFDXh/posters/36df4012-80f2-4a98-9970-3b663f62093f.webp" group-title="MY BC",Sony YAY
 https://toffee-obiramtv.emonsa4.workers.dev/sony-yay.m3u8|Origin=https://obiramtvlive.pages.dev&Referer=https://obiramtvlive.pages.dev/
 #EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/7x0Jd5YBEef-9-uVv_Gy/posters/f9c07bfc-9fde-40d0-91a1-e28c5840f400.png" group-title="MY BC",Zee Anmol

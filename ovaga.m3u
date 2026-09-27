@@ -160,6 +160,12 @@ https://ranacable.duckdns.org/RanaCableTV/index.m3u8|Origin=https://obiramtvlive
 https://ranacable.duckdns.org/RanaMovie/tracks-v1a1/mono.m3u8|Origin=https://obiramtvlive.pages.dev&Referer=https://obiramtvlive.pages.dev/
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/saemon068/iptv-auto-scraper/refs/heads/main/ranacablelgo/Picsart_26-07-03_17-41-02-882.png" group-title="MY BC",Rana Cable Music
 https://ranacable.duckdns.org/RanaCableMusic/index.m3u8|Origin=https://obiramtvlive.pages.dev&Referer=https://obiramtvlive.pages.dev/
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/saemon068/iptv-auto-scraper/refs/heads/main/ranacablelgo/WhatsApp%20Image%202026-09-26%20at%207.33.15%20PM.jpeg" group-title="MY BC",Alo Tv
+https://ranacable.duckdns.org/AloTv/index.m3u8|Origin=https://obiramtvlive.pages.dev&Referer=https://obiramtvlive.pages.dev/
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/saemon068/iptv-auto-scraper/refs/heads/main/ranacablelgo/WhatsApp%20Image%202026-09-26%20at%207.33.17%20PM.jpeg" group-title="MY BC",Upohar Bangla
+https://ranacable.duckdns.org/UpoharBangla/tracks-v1a1/mono.m3u8|Origin=https://obiramtvlive.pages.dev&Referer=https://obiramtvlive.pages.dev/
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/saemon068/iptv-auto-scraper/refs/heads/main/ranacablelgo/WhatsApp%20Image%202026-09-26%20at%207.33.16%20PM.jpeg" group-title="MY BC",B Prime Bangla
+https://ranacable.duckdns.org/Bprimebangla/index.m3u8|Origin=https://obiramtvlive.pages.dev&Referer=https://obiramtvlive.pages.dev/
 #EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/IC5_-JQBv9knK3AHFDXh/posters/36df4012-80f2-4a98-9970-3b663f62093f.webp" group-title="MY BC",Sony YAY
 https://toffee-obiramtv.emonsa4.workers.dev/sony-yay.m3u8|Origin=https://obiramtvlive.pages.dev&Referer=https://obiramtvlive.pages.dev/
 #EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/7x0Jd5YBEef-9-uVv_Gy/posters/f9c07bfc-9fde-40d0-91a1-e28c5840f400.png" group-title="MY BC",Zee Anmol

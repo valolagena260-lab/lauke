@@ -466,6 +466,8 @@ https://toffee-obiramtv.emonsa4.workers.dev/sony-pix-hd.m3u8|Origin=https://obir
 https://toffee-obiramtv.emonsa4.workers.dev/b4u-movies-apac.m3u8|Origin=https://obiramtvlive.pages.dev&Referer=https://obiramtvlive.pages.dev/
 #EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/OnSlPJYBcqxnFHJB6lFX/posters/d9ccb2a6-227f-4a41-8714-efaddab5cf5e.png" group-title="MY BC",Zee Bollywood
 https://toffee-obiramtv.emonsa4.workers.dev/zee-bollywood.m3u8|Origin=https://obiramtvlive.pages.dev&Referer=https://obiramtvlive.pages.dev/
+#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/HHnAgJkBcqxnFHJBabwO/posters/967dd1fe-c2af-442e-a0b1-22320ed82c88.png" group-title="MY BC",BFL | Live 1
+https://toffee-obiramtv.emonsa4.workers.dev/bfl-live-1.m3u8|Origin=https://obiramtvlive.pages.dev&Referer=https://obiramtvlive.pages.dev/
 #EXTINF:-1 tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770348753896.png" group-title="MY BC",Crazy Ex
 https://akashgo-obiramtv.emonsa4.workers.dev/crazy-ex.m3u8|Origin=https://obiramtvlive.pages.dev&Referer=https://obiramtvlive.pages.dev/
 #EXTINF:-1 tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770380601958.png" group-title="MY BC",Sports Range
@@ -494,7 +496,5 @@ https://akashgo-obiramtv.emonsa4.workers.dev/buddystar-hd.m3u8|Origin=https://ob
 https://akashgo-obiramtv.emonsa4.workers.dev/smarty.m3u8|Origin=https://obiramtvlive.pages.dev&Referer=https://obiramtvlive.pages.dev/
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgyniKyW9pUz1OKx5bgzLASwGVSuP0e7hX9FxVMTJMHxhu8X0tpucgSplBZgM8pCYrJJH0P2_dTC1-wzp4mMUU4sKnOzghGPCwWdbYOOa4jTyhpr7ydNj-UK-bc56IMsk2H3WZJ-SzSZIk0dTpyABCFR2_zjC2_c86W1pv7odFBT_Y-hyJs62g-3zCJkPGd/s1024/1000398131.png" group-title="MY BC",OFF | Welcome to PlayZ TV
 https://playztv.pages.dev/promo/master.m3u8
-#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/HHnAgJkBcqxnFHJBabwO/posters/26ad6992-9fc5-4254-8374-a99673582577.png" group-title="MY BC",FC | Live 1
-https://toffee-obiramtv.emonsa4.workers.dev/fc-live-1.m3u8|Origin=https://obiramtvlive.pages.dev&Referer=https://obiramtvlive.pages.dev/
 #EXTINF:-1 tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1788231546532.png" group-title="MY BC",Bangla Vision
 https://akashgo-obiramtv.emonsa4.workers.dev/bangla-vision.m3u8|Origin=https://obiramtvlive.pages.dev&Referer=https://obiramtvlive.pages.dev/

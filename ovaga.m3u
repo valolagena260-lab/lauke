@@ -565,12 +565,8 @@ https://ay-obiram.emonsa4.workers.dev/world-muzzik.m3u8|Origin=https://obiramtvl
 https://ay-obiram.emonsa4.workers.dev/world-war-tv.m3u8|Origin=https://obiramtvlive.pages.dev&Referer=https://obiramtvlive.pages.dev/
 #EXTINF:-1 tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_e8cc865d910abad00a75ef72c8247262_playmist_ytv400x400.jpg"  group-title="MY BC",YTV
 https://ay-obiram.emonsa4.workers.dev/ytv.m3u8|Origin=https://obiramtvlive.pages.dev&Referer=https://obiramtvlive.pages.dev/
-#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/py5j-JQBv9knK3AHxDTY/posters/ea3358b9-2bec-4615-a889-daa2e396c74c.webp"  group-title="Candy",Sony Ten Sports 1 HD
-https://toffee-obiramtv.emonsa4.workers.dev/sony-ten-sports-1-hd.m3u8|Origin=https://obiramtvlive.pages.dev&Referer=https://obiramtvlive.pages.dev/
 #EXTINF:-1 tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-16/images_42d248089af768d78ab12e716c674e77_playmist_3abn_kids.jpg"  group-title="MY BC",3ABN Kids
 https://ay-obiram.emonsa4.workers.dev/3abn-kids.m3u8|Origin=https://obiramtvlive.pages.dev&Referer=https://obiramtvlive.pages.dev/
-#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/sy5m-JQBv9knK3AHYTTk/posters/5e40bf0e-633f-4d37-a3b2-3d606f0ac19a.png"  group-title="Candy",Sony Ten Sports 2 HD
-https://toffee-obiramtv.emonsa4.workers.dev/sony-ten-sports-2-hd.m3u8|Origin=https://obiramtvlive.pages.dev&Referer=https://obiramtvlive.pages.dev/
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/dc654c62fa2f2cd754894ebc9353da9c"  group-title="MY BC",Dios Te Ve Kids
 https://ay-obiram.emonsa4.workers.dev/dios-te-ve-kids.m3u8|Origin=https://obiramtvlive.pages.dev&Referer=https://obiramtvlive.pages.dev/
 #EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/vi5n-JQBv9knK3AHqzTC/posters/d171fd4d-0369-4213-b0c5-e241974f5459.png"  group-title="Candy",Sony Ten Sports 5 HD

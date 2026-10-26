@@ -74,6 +74,10 @@ def main():
                     line = re.sub(r'^(#EXTINF:[^,]+)(.*)$', r'\1 group-title="MY BC"\2', line, flags=re.IGNORECASE)
                     
                 elif line.startswith('http'):
+                    if 'toffee' in line.lower():
+                        if len(modified_playlist) > 0 and modified_playlist[-1].startswith('#EXTINF:'):
+                            modified_playlist[-1] = modified_playlist[-1].replace('group-title="MY BC"', 'group-title="Candy"')
+                            
                     if k1 in line or k2 in line:
                         real_link = get_real_link(line)
                         if real_link:

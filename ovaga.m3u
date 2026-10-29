@@ -467,6 +467,8 @@ https://ay-obiram.emonsa4.workers.dev/shemaroo-tv.m3u8|Origin=https://obiramtvli
 https://ay-obiram.emonsa4.workers.dev/taaza-tv.m3u8|Origin=https://obiramtvlive.pages.dev&Referer=https://obiramtvlive.pages.dev/
 #EXTINF:-1 tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-16/images_2f34bf2892467c32fab2ed18bc782c53_playmist_theq_400x400.jpg"  group-title="MY BC",TheQ
 https://ay-obiram.emonsa4.workers.dev/theq.m3u8|Origin=https://obiramtvlive.pages.dev&Referer=https://obiramtvlive.pages.dev/
+#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/JS1AqZgBNnOkwJLWlwg-/posters/cb8992fa-5488-4c94-a1d3-fbb30bcb9afe.png"  group-title="Candy",EPL channel 1
+https://toffee-obiramtv.emonsa4.workers.dev/epl-channel-1.m3u8|Origin=https://obiramtvlive.pages.dev&Referer=https://obiramtvlive.pages.dev/
 #EXTINF:-1 tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_e6222cfb0e0f7e22736f3496cc98a897_playmist_discovery_hd_400x400.jpg" group-title="MY BC",Discovery HD
 #EXT-X-MEDIA:TYPE=VIDEO,GROUP-ID="group",NAME="Server 2",URI="https://toffee-obiramtv.emonsa4.workers.dev/discovery-hd.m3u8"
 https://ay-obiram.emonsa4.workers.dev/discovery-hd.m3u8|Origin=https://obiramtvlive.pages.dev&Referer=https://obiramtvlive.pages.dev/

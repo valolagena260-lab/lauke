@@ -120,8 +120,8 @@ https://ay-obiram.emonsa4.workers.dev/sangeet-bangla.m3u8|Origin=https://obiramt
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starjalsha.smil/chunklist_b1928000.m3u8|Origin=https://obiramtvlive.pages.dev&Referer=https://obiramtvlive.pages.dev/
 #EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/kK2aX5UBrjBfS2_RBcKf/posters/ba5dd8dc-4f87-414a-b57f-c9ecdeda5253.png" group-title="MY BC",Zee Bangla
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=dcdbae165fcd475c8ecdf3b4a3021101:b6b40392d07ff68300cd80e1fb19ca4f
-#EXT-X-MEDIA:TYPE=VIDEO,GROUP-ID="group",NAME="Server 2",URI="https://d2o8pibksxtln6.cloudfront.net/live/media/Zee_Bangla_HD/dash/Zee_Bangla_HD.mpd"
+#KODIPROP:inputstream.adaptive.license_key=1df83e058b864da896c9288eef63b113:fc32f26239054b56aab48225305598fe
+#EXT-X-MEDIA:TYPE=VIDEO,GROUP-ID="group",NAME="Server 2",URI="https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebangla/default/manifest.mpd"
 https://toffee-obiramtv.emonsa4.workers.dev/zee-bangla.m3u8|Origin=https://obiramtvlive.pages.dev&Referer=https://obiramtvlive.pages.dev/
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/88/2002_Disney_Channel_logo_%28Alt%29.svg" group-title="MY BC",DISNEY CHANNEL
 #EXT-X-MEDIA:TYPE=VIDEO,GROUP-ID="group",NAME="Server 2",URI="https://yowaimo.in/Sflex-ArtlPVT0719/DISNEY_CHANNEL.m3u8"

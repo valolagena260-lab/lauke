@@ -347,7 +347,7 @@ https://ay-obiram.emonsa4.workers.dev/ktv-sport-plus.m3u8|Origin=https://obiramt
 https://ay-obiram.emonsa4.workers.dev/marquee-sports-network.m3u8|Origin=https://obiramtvlive.pages.dev&Referer=https://obiramtvlive.pages.dev/
 #EXTINF:-1 tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735547218986.png" group-title="MY BC",Al Jazeera
 #EXT-X-MEDIA:TYPE=VIDEO,GROUP-ID="group",NAME="Server 2",URI="https://ay-obiram.emonsa4.workers.dev/aljazeera-news.m3u8"
-https://akashgo-obiramtv.emonsa4.workers.dev/al-jazeera.m3u8|Origin=https://obiramtvlive.pages.dev&Referer=https://obiramtvlive.pages.dev/
+https://toffee-obiramtv.emonsa4.workers.dev/al-jazeera.m3u8|Origin=https://obiramtvlive.pages.dev&Referer=https://obiramtvlive.pages.dev/
 #EXTINF:-1 tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-06-24/3ce4f626598fec3837ba3f590e34005d.jpg"  group-title="MY BC",More Then Sports TV
 https://ay-obiram.emonsa4.workers.dev/more-then-sports-tv.m3u8|Origin=https://obiramtvlive.pages.dev&Referer=https://obiramtvlive.pages.dev/
 #EXTINF:-1 tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-14/images_3fb60482217bd1827b359461e167230d_playmist_sharjah_sports_tv400x400.jpg"  group-title="MY BC",Sharjah Sports TV
@@ -575,10 +575,14 @@ https://ay-obiram.emonsa4.workers.dev/ytv.m3u8|Origin=https://obiramtvlive.pages
 https://ay-obiram.emonsa4.workers.dev/3abn-kids.m3u8|Origin=https://obiramtvlive.pages.dev&Referer=https://obiramtvlive.pages.dev/
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/dc654c62fa2f2cd754894ebc9353da9c"  group-title="MY BC",Dios Te Ve Kids
 https://ay-obiram.emonsa4.workers.dev/dios-te-ve-kids.m3u8|Origin=https://obiramtvlive.pages.dev&Referer=https://obiramtvlive.pages.dev/
+#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/py5j-JQBv9knK3AHxDTY/posters/ea3358b9-2bec-4615-a889-daa2e396c74c.webp"  group-title="Candy",Sony Ten Sports 1 HD
+https://toffee-obiramtv.emonsa4.workers.dev/sony-ten-sports-1-hd.m3u8|Origin=https://obiramtvlive.pages.dev&Referer=https://obiramtvlive.pages.dev/
 #EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/vi5n-JQBv9knK3AHqzTC/posters/d171fd4d-0369-4213-b0c5-e241974f5459.png"  group-title="Candy",Sony Ten Sports 5 HD
 https://toffee-obiramtv.emonsa4.workers.dev/sony-ten-sports-5-hd.m3u8|Origin=https://obiramtvlive.pages.dev&Referer=https://obiramtvlive.pages.dev/
 #EXTINF:-1 tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-16/images_2df08c319ac7e461f3544ff1e9f5bfae_playmist_discovery_family_400x400.jpg"  group-title="MY BC",Discovery Family
 https://ay-obiram.emonsa4.workers.dev/discovery-family.m3u8|Origin=https://obiramtvlive.pages.dev&Referer=https://obiramtvlive.pages.dev/
+#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/sy5m-JQBv9knK3AHYTTk/posters/5e40bf0e-633f-4d37-a3b2-3d606f0ac19a.png"  group-title="Candy",Sony Ten Sports 2 HD
+https://toffee-obiramtv.emonsa4.workers.dev/sony-ten-sports-2-hd.m3u8|Origin=https://obiramtvlive.pages.dev&Referer=https://obiramtvlive.pages.dev/
 #EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/ra2x_pQBrjBfS2_RWG9l/posters/795170c2-ec78-457e-9fa0-54a23d23361c.webp"  group-title="Candy",Sony Ten Cricket
 https://toffee-obiramtv.emonsa4.workers.dev/sony-ten-cricket.m3u8|Origin=https://obiramtvlive.pages.dev&Referer=https://obiramtvlive.pages.dev/
 #EXTINF:-1 tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-16/images_f02de913e3592f951e728234f2bef434_playmist_disney_xd_400x400.jpg"  group-title="MY BC",Disney XD

@@ -710,7 +710,7 @@ https://toffee-obiramtv.emonsa4.workers.dev/b4u-movies-apac.m3u8|Origin=https://
 https://toffee-obiramtv.emonsa4.workers.dev/zee-bollywood.m3u8|Origin=https://obiramtvlive.pages.dev&Referer=https://obiramtvlive.pages.dev/
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/d/1iM4PZ4Ra90vtIsfQVlzS3-MKbe07U27q" group-title="MY BC",undefined
 undefined
-#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/Mi1QqZgBNnOkwJLWxggo/posters/48286e3c-2783-4e6b-b002-53a6deb3d8be.png"  group-title="Candy",EPL channel 2
+#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/Mi1QqZgBNnOkwJLWxggo/posters/740d2555-9799-4b93-8cff-46f4cd180543.png"  group-title="Candy",EPL channel 2
 https://toffee-obiramtv.emonsa4.workers.dev/epl-channel-2.m3u8|Origin=https://obiramtvlive.pages.dev&Referer=https://obiramtvlive.pages.dev/
 #EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/F9UM56ABalKyvLQIr9B1/posters/26081e64-671e-44a8-95ba-a692bfaae49c.jpeg"  group-title="Candy",AWSN TV
 https://toffee-obiramtv.emonsa4.workers.dev/awsn-tv.m3u8|Origin=https://obiramtvlive.pages.dev&Referer=https://obiramtvlive.pages.dev/
@@ -802,15 +802,15 @@ http://45.12.32.190:8080/UK-SkySport1NZ/video.m3u8|Origin=https://obiramtvlive.p
 http://45.12.32.190:8080/UK-SkySport2NZ/video.m3u8|Origin=https://obiramtvlive.pages.dev&Referer=https://obiramtvlive.pages.dev/
 #EXTINF:-1 tvg-logo="https://8upload.com/image/67dcf3f707147/sky-sport-3-nz.png?raw=1"  group-title="MY BC",Sky Sports NZ 3 FHD
 http://45.12.32.190:8080/UK-SkySport3NZ/video.m3u8|Origin=https://obiramtvlive.pages.dev&Referer=https://obiramtvlive.pages.dev/
-#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/Pi1TqZgBNnOkwJLWVggf/posters/2f304c08-d512-451f-b15b-00b516e8ff6d.png"  group-title="Candy",EPL channel 3
+#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/Pi1TqZgBNnOkwJLWVggf/posters/b90a576d-0ef8-46c3-a464-32176c42b751.png"  group-title="Candy",EPL channel 3
 https://toffee-obiramtv.emonsa4.workers.dev/epl-channel-3.m3u8|Origin=https://obiramtvlive.pages.dev&Referer=https://obiramtvlive.pages.dev/
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pV85BZT.jpeg"  group-title="MY BC",SkySports 3 NZ
 http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:F8:A4:0D&stream=1424316&extension=ts&play_token=SIT57qojPv|Origin=https://obiramtvlive.pages.dev&Referer=https://obiramtvlive.pages.dev/
-#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/OyEz-ZgBEef-9-uVnhcx/posters/24069614-b413-4bf1-b1c6-9c3bc4c5e9ca.png"  group-title="Candy",EPL Channel 4
+#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/OyEz-ZgBEef-9-uVnhcx/posters/5b55fae1-6b3f-4464-a0cc-bf22c55b955a.png"  group-title="Candy",EPL Channel 4
 https://toffee-obiramtv.emonsa4.workers.dev/epl-channel-4.m3u8|Origin=https://obiramtvlive.pages.dev&Referer=https://obiramtvlive.pages.dev/
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pV85BZT.jpeg"  group-title="MY BC",SkySports 4 NZ
 http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:F8:A4:0D&stream=1424315&extension=ts&play_token=t6lyRcjmaz|Origin=https://obiramtvlive.pages.dev&Referer=https://obiramtvlive.pages.dev/
-#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/6CHi_5gBEef-9-uV-Bx_/posters/9168cb76-06bb-4c6b-8b1c-f6e644a75f6b.png"  group-title="Candy",EPL Channel 5
+#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/6CHi_5gBEef-9-uV-Bx_/posters/9139aeae-8d63-4b15-92cd-590a44661185.png"  group-title="Candy",EPL Channel 5
 https://toffee-obiramtv.emonsa4.workers.dev/epl-channel-5.m3u8|Origin=https://obiramtvlive.pages.dev&Referer=https://obiramtvlive.pages.dev/
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pV85BZT.jpeg"  group-title="MY BC",SkySports 5 NZ
 http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:F8:A4:0D&stream=1424314&extension=ts&play_token=IlUv2zn5ow|Origin=https://obiramtvlive.pages.dev&Referer=https://obiramtvlive.pages.dev/
@@ -1614,7 +1614,7 @@ https://bintangstreaming.my.id/connect/index.m3u8?channel=epl7&type=m3u8|Origin=
 https://bintangstreaming.my.id/connect/index.m3u8?channel=epl6&type=m3u8|Origin=https://obiramtvlive.pages.dev&Referer=https://obiramtvlive.pages.dev/
 #EXTINF:-1 tvg-logo="https://cdn.mos.cms.futurecdn.net/YfcLFQhjH3dBhA2tGqs8Qf.jpg"  group-title="MY BC",EPL 3
 https://bintangstreaming.my.id/connect/index.m3u8?channel=epl8&type=m3u8|Origin=https://obiramtvlive.pages.dev&Referer=https://obiramtvlive.pages.dev/
-#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/I4fIpqEBJIOHmUelirBF/posters/2ed98f3b-f0b5-4e34-a107-bdd4ac3f0932.png"  group-title="Candy",SAFF Live 3 Bangla
+#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/I4fIpqEBJIOHmUelirBF/posters/63de9919-398c-44cd-bc1e-60265d7caedc.png"  group-title="Candy",SAFF Live 3 Bangla
 https://toffee-obiramtv.emonsa4.workers.dev/saff-live-3-bangla.m3u8|Origin=https://obiramtvlive.pages.dev&Referer=https://obiramtvlive.pages.dev/
-#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/JdjLpqEBalKyvLQIrDPD/posters/344a2952-5030-4412-aec4-d1769acc45dd.png"  group-title="Candy",SAFF Live 4 Bangla
+#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/JdjLpqEBalKyvLQIrDPD/posters/dede2169-1b5e-4342-bf55-4fd72cb596f3.png"  group-title="Candy",SAFF Live 4 Bangla
 https://toffee-obiramtv.emonsa4.workers.dev/saff-live-4-bangla.m3u8|Origin=https://obiramtvlive.pages.dev&Referer=https://obiramtvlive.pages.dev/

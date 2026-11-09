@@ -717,7 +717,7 @@ https://toffee-obiramtv.emonsa4.workers.dev/awsn-tv.m3u8|Origin=https://obiramtv
 https://toffee-obiramtv.emonsa4.workers.dev/saff-live-1.m3u8|Origin=https://obiramtvlive.pages.dev&Referer=https://obiramtvlive.pages.dev/
 #EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/7S6j-JQBv9knK3AHbzXC/posters/0973097c-bc5c-4b28-aaca-f04d6f6cb5e2.webp"  group-title="Candy",TLC HD
 https://toffee-obiramtv.emonsa4.workers.dev/tlc-hd.m3u8|Origin=https://obiramtvlive.pages.dev&Referer=https://obiramtvlive.pages.dev/
-#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/9dijmqEBalKyvLQIIAFj/posters/c6ab0af9-2523-4693-994c-82e7bc1e5483.png"  group-title="Candy",SAFF Live 2
+#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/9dijmqEBalKyvLQIIAFj/posters/b03c4129-d940-4ffd-92b6-d78924196d8b.png"  group-title="Candy",SAFF Live 2
 https://toffee-obiramtv.emonsa4.workers.dev/saff-live-2.m3u8|Origin=https://obiramtvlive.pages.dev&Referer=https://obiramtvlive.pages.dev/
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mV3bdZvn/images-3.png"  group-title="MY BC",WILLOW SPORTS
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -1609,5 +1609,5 @@ https://bintangstreaming.my.id/connect/index.m3u8?channel=epl6&type=m3u8|Origin=
 https://bintangstreaming.my.id/connect/index.m3u8?channel=epl8&type=m3u8|Origin=https://obiramtvlive.pages.dev&Referer=https://obiramtvlive.pages.dev/
 #EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/I4fIpqEBJIOHmUelirBF/posters/da8ffef4-f109-4dcc-a430-8020a21b81ce.png"  group-title="Candy",SAFF Live 3 Bangla
 https://toffee-obiramtv.emonsa4.workers.dev/saff-live-3-bangla.m3u8|Origin=https://obiramtvlive.pages.dev&Referer=https://obiramtvlive.pages.dev/
-#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/JdjLpqEBalKyvLQIrDPD/posters/dede2169-1b5e-4342-bf55-4fd72cb596f3.png"  group-title="Candy",SAFF Live 4 Bangla
+#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/JdjLpqEBalKyvLQIrDPD/posters/b47fbf13-ad17-4e15-923e-8e2bc55e2a97.png"  group-title="Candy",SAFF Live 4 Bangla
 https://toffee-obiramtv.emonsa4.workers.dev/saff-live-4-bangla.m3u8|Origin=https://obiramtvlive.pages.dev&Referer=https://obiramtvlive.pages.dev/

@@ -375,7 +375,7 @@ https://ay-obiram.emonsa4.workers.dev/ktv-sport-plus.m3u8|Origin=https://obiramt
 https://ay-obiram.emonsa4.workers.dev/marquee-sports-network.m3u8|Origin=https://obiramtvlive.pages.dev&Referer=https://obiramtvlive.pages.dev/
 #EXTINF:-1 tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735547218986.png" group-title="MY BC",Al Jazeera
 #EXT-X-MEDIA:TYPE=VIDEO,GROUP-ID="group",NAME="Server 2",URI="https://ay-obiram.emonsa4.workers.dev/aljazeera-news.m3u8"
-https://toffee-obiramtv.emonsa4.workers.dev/al-jazeera.m3u8|Origin=https://obiramtvlive.pages.dev&Referer=https://obiramtvlive.pages.dev/
+https://akashgo-obiramtv.emonsa4.workers.dev/al-jazeera.m3u8|Origin=https://obiramtvlive.pages.dev&Referer=https://obiramtvlive.pages.dev/
 #EXTINF:-1 tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-06-24/3ce4f626598fec3837ba3f590e34005d.jpg"  group-title="MY BC",More Then Sports TV
 https://ay-obiram.emonsa4.workers.dev/more-then-sports-tv.m3u8|Origin=https://obiramtvlive.pages.dev&Referer=https://obiramtvlive.pages.dev/
 #EXTINF:-1 tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-14/images_3fb60482217bd1827b359461e167230d_playmist_sharjah_sports_tv400x400.jpg"  group-title="MY BC",Sharjah Sports TV
@@ -447,13 +447,11 @@ https://ay-obiram.emonsa4.workers.dev/b4u-kadak.m3u8|Origin=https://obiramtvlive
 #EXTINF:-1 tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-16/images_609415ab80bb07335a70905f89257bb0_playmist_b4u_music_400x400.jpg" group-title="MY BC",B4u Music
 #EXT-X-MEDIA:TYPE=VIDEO,GROUP-ID="group",NAME="Server 2",URI="https://toffee-obiramtv.emonsa4.workers.dev/b4u-music.m3u8"
 https://ay-obiram.emonsa4.workers.dev/b4u-music.m3u8|Origin=https://obiramtvlive.pages.dev&Referer=https://obiramtvlive.pages.dev/
-#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/1y6e-JQBv9knK3AHNDWb/posters/ee9ba01b-1bcf-436b-b273-7b857f0810fb.webp"  group-title="Candy",Cartoon Network HD +
-https://toffee-obiramtv.emonsa4.workers.dev/cartoon-network-hd.m3u8|Origin=https://obiramtvlive.pages.dev&Referer=https://obiramtvlive.pages.dev/
 #EXTINF:-1 tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-16/images_f53e288446373a26b61189c23616288e_playmist_dabangg_400x400.jpg"  group-title="MY BC",Dabangg
 https://ay-obiram.emonsa4.workers.dev/dabangg.m3u8|Origin=https://obiramtvlive.pages.dev&Referer=https://obiramtvlive.pages.dev/
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/b7fc826556dc5d8465f5046ed959cf03" group-title="MY BC",Cartoon Network
 #EXT-X-MEDIA:TYPE=VIDEO,GROUP-ID="group",NAME="Server 2",URI="https://toffee-obiramtv.emonsa4.workers.dev/cartoon-network.m3u8"
-https://toffee-obiramtv.emonsa4.workers.dev/cartoon-network.m3u8|Origin=https://obiramtvlive.pages.dev&Referer=https://obiramtvlive.pages.dev/
+https://ay-obiram.emonsa4.workers.dev/cartoon-network.m3u8|Origin=https://obiramtvlive.pages.dev&Referer=https://obiramtvlive.pages.dev/
 #EXTINF:-1 tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-16/images_98667878f9c1b3ec731feece5946b50b_playmist_dangal_400x400.jpg"  group-title="MY BC",Dangal
 https://ay-obiram.emonsa4.workers.dev/dangal.m3u8|Origin=https://obiramtvlive.pages.dev&Referer=https://obiramtvlive.pages.dev/
 #EXTINF:-1 tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-16/images_c41a97b3f4c0f44bd3c609d7cbb57cef_playmist_dangal_2_400x400.jpg"  group-title="MY BC",Dangal 2
@@ -496,8 +494,6 @@ https://ay-obiram.emonsa4.workers.dev/shemaroo-tv.m3u8|Origin=https://obiramtvli
 https://ay-obiram.emonsa4.workers.dev/taaza-tv.m3u8|Origin=https://obiramtvlive.pages.dev&Referer=https://obiramtvlive.pages.dev/
 #EXTINF:-1 tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-16/images_2f34bf2892467c32fab2ed18bc782c53_playmist_theq_400x400.jpg"  group-title="MY BC",TheQ
 https://ay-obiram.emonsa4.workers.dev/theq.m3u8|Origin=https://obiramtvlive.pages.dev&Referer=https://obiramtvlive.pages.dev/
-#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/JS1AqZgBNnOkwJLWlwg-/posters/a5558fc4-f518-4e11-ad29-ef6dc1e84123.png"  group-title="Candy",EPL channel 1
-https://toffee-obiramtv.emonsa4.workers.dev/epl-channel-1.m3u8|Origin=https://obiramtvlive.pages.dev&Referer=https://obiramtvlive.pages.dev/
 #EXTINF:-1 tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_e6222cfb0e0f7e22736f3496cc98a897_playmist_discovery_hd_400x400.jpg" group-title="MY BC",Discovery HD
 #EXT-X-MEDIA:TYPE=VIDEO,GROUP-ID="group",NAME="Server 2",URI="https://toffee-obiramtv.emonsa4.workers.dev/discovery-hd.m3u8"
 https://ay-obiram.emonsa4.workers.dev/discovery-hd.m3u8|Origin=https://obiramtvlive.pages.dev&Referer=https://obiramtvlive.pages.dev/
@@ -603,14 +599,8 @@ https://ay-obiram.emonsa4.workers.dev/ytv.m3u8|Origin=https://obiramtvlive.pages
 https://ay-obiram.emonsa4.workers.dev/3abn-kids.m3u8|Origin=https://obiramtvlive.pages.dev&Referer=https://obiramtvlive.pages.dev/
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/dc654c62fa2f2cd754894ebc9353da9c"  group-title="MY BC",Dios Te Ve Kids
 https://ay-obiram.emonsa4.workers.dev/dios-te-ve-kids.m3u8|Origin=https://obiramtvlive.pages.dev&Referer=https://obiramtvlive.pages.dev/
-#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/py5j-JQBv9knK3AHxDTY/posters/ea3358b9-2bec-4615-a889-daa2e396c74c.webp"  group-title="Candy",Sony Ten Sports 1 HD
-https://toffee-obiramtv.emonsa4.workers.dev/sony-ten-sports-1-hd.m3u8|Origin=https://obiramtvlive.pages.dev&Referer=https://obiramtvlive.pages.dev/
-#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/vi5n-JQBv9knK3AHqzTC/posters/d171fd4d-0369-4213-b0c5-e241974f5459.png"  group-title="Candy",Sony Ten Sports 5 HD
-https://toffee-obiramtv.emonsa4.workers.dev/sony-ten-sports-5-hd.m3u8|Origin=https://obiramtvlive.pages.dev&Referer=https://obiramtvlive.pages.dev/
 #EXTINF:-1 tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-16/images_2df08c319ac7e461f3544ff1e9f5bfae_playmist_discovery_family_400x400.jpg"  group-title="MY BC",Discovery Family
 https://ay-obiram.emonsa4.workers.dev/discovery-family.m3u8|Origin=https://obiramtvlive.pages.dev&Referer=https://obiramtvlive.pages.dev/
-#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/sy5m-JQBv9knK3AHYTTk/posters/5e40bf0e-633f-4d37-a3b2-3d606f0ac19a.png"  group-title="Candy",Sony Ten Sports 2 HD
-https://toffee-obiramtv.emonsa4.workers.dev/sony-ten-sports-2-hd.m3u8|Origin=https://obiramtvlive.pages.dev&Referer=https://obiramtvlive.pages.dev/
 #EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/ra2x_pQBrjBfS2_RWG9l/posters/795170c2-ec78-457e-9fa0-54a23d23361c.webp"  group-title="Candy",Sony Ten Cricket
 https://toffee-obiramtv.emonsa4.workers.dev/sony-ten-cricket.m3u8|Origin=https://obiramtvlive.pages.dev&Referer=https://obiramtvlive.pages.dev/
 #EXTINF:-1 tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-16/images_f02de913e3592f951e728234f2bef434_playmist_disney_xd_400x400.jpg"  group-title="MY BC",Disney XD
@@ -621,12 +611,8 @@ https://toffee-obiramtv.emonsa4.workers.dev/sony-bbc-earth-hd.m3u8|Origin=https:
 https://ay-obiram.emonsa4.workers.dev/family-jr.m3u8|Origin=https://obiramtvlive.pages.dev&Referer=https://obiramtvlive.pages.dev/
 #EXTINF:-1 tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-06-24/17ba4c8d03335c590b01e900ba1d3a9a.jpg"  group-title="MY BC",Kids Pang TV
 https://ay-obiram.emonsa4.workers.dev/kids-pang-tv.m3u8|Origin=https://obiramtvlive.pages.dev&Referer=https://obiramtvlive.pages.dev/
-#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/ny6W-JQBv9knK3AHujXC/posters/7e7c2afe-a663-4c09-983a-2d0fa0f1ca9a.webp"  group-title="Candy",POGO
-https://toffee-obiramtv.emonsa4.workers.dev/pogo.m3u8|Origin=https://obiramtvlive.pages.dev&Referer=https://obiramtvlive.pages.dev/
 #EXTINF:-1 tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-16/images_a183518a2fa3c3364313a8d04ff2feb4_playmist_pbs_kids_400x400.jpg"  group-title="MY BC",Kids TV
 https://ay-obiram.emonsa4.workers.dev/kids-tv.m3u8|Origin=https://obiramtvlive.pages.dev&Referer=https://obiramtvlive.pages.dev/
-#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/1i6e-JQBv9knK3AHHTXR/posters/325887a7-84ea-4cf9-a6fd-6111ddc25671.webp"  group-title="Candy",Discovery Kids
-https://toffee-obiramtv.emonsa4.workers.dev/discovery-kids.m3u8|Origin=https://obiramtvlive.pages.dev&Referer=https://obiramtvlive.pages.dev/
 #EXTINF:-1 tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-16/images_4be00646d9e8f7a973d43b52166407ff_playmist_moonbug_kids400x400.jpg"  group-title="MY BC",Moonbug Kids
 https://ay-obiram.emonsa4.workers.dev/moonbug-kids.m3u8|Origin=https://obiramtvlive.pages.dev&Referer=https://obiramtvlive.pages.dev/
 #EXTINF:-1 tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-06-28/images_ab1b8e6f265620cd2720adc23bd2ba0e_playmist_pbs_kids_400x400.jpg"  group-title="MY BC",PBS Kids
@@ -639,16 +625,12 @@ https://ay-obiram.emonsa4.workers.dev/sky-cinema-animation.m3u8|Origin=https://o
 https://ay-obiram.emonsa4.workers.dev/teen-nick.m3u8|Origin=https://obiramtvlive.pages.dev&Referer=https://obiramtvlive.pages.dev/
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/31957d5960d3a36d8f9ca4d5a56eee96"  group-title="MY BC",TVC Arabic Kids
 https://ay-obiram.emonsa4.workers.dev/tvc-arabic-kids.m3u8|Origin=https://obiramtvlive.pages.dev&Referer=https://obiramtvlive.pages.dev/
-#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/KS6x-JQBv9knK3AHwDZy/posters/6594d216-aaca-4eee-b6f5-bbc6b80feb15.webp"  group-title="Candy",Discovery
-https://toffee-obiramtv.emonsa4.workers.dev/discovery.m3u8|Origin=https://obiramtvlive.pages.dev&Referer=https://obiramtvlive.pages.dev/
 #EXTINF:-1 tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-16/images_fbef127efb1f4148d2730e59a78a9662_playmist_tvcarib_kids_teens400x400.jpg"  group-title="MY BC",TVCARiB Kids & Teens
 https://ay-obiram.emonsa4.workers.dev/tvcarib-kids-teens.m3u8|Origin=https://obiramtvlive.pages.dev&Referer=https://obiramtvlive.pages.dev/
 #EXTINF:-1 tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_8546ba7af9854adaeb7f7b4d9ee36019_playmist_channel_win_400x400.jpg"  group-title="MY BC",Channel Win
 https://ay-obiram.emonsa4.workers.dev/channel-win.m3u8|Origin=https://obiramtvlive.pages.dev&Referer=https://obiramtvlive.pages.dev/
 #EXTINF:-1 tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_61c8b190119b0d1adbfde37c4b521043_playmist_deen_tv_400x400.jpg"  group-title="MY BC",Deen TV
 https://ay-obiram.emonsa4.workers.dev/deen-tv.m3u8|Origin=https://obiramtvlive.pages.dev&Referer=https://obiramtvlive.pages.dev/
-#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/ay7uX5UBv9knK3AHs6TI/posters/deb3c186-b2e1-4a91-aafb-d86f9128b851.png"  group-title="Candy",Investigation Discovery HD
-https://toffee-obiramtv.emonsa4.workers.dev/investigation-discovery-hd.m3u8|Origin=https://obiramtvlive.pages.dev&Referer=https://obiramtvlive.pages.dev/
 #EXTINF:-1 tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_efeb6a966b36ef807b0aa9bfd5229360_playmist_discover_pikstan.jpg"  group-title="MY BC",Discover Pikstan
 https://ay-obiram.emonsa4.workers.dev/discover-pikstan.m3u8|Origin=https://obiramtvlive.pages.dev&Referer=https://obiramtvlive.pages.dev/
 #EXTINF:-1 tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_2b834d3ec5f27714e6bee18647528e0a_playmist_eman_channel_400x400.jpg"  group-title="MY BC",Eman Channel
@@ -661,12 +643,8 @@ https://toffee-obiramtv.emonsa4.workers.dev/toffee-movies.m3u8|Origin=https://ob
 https://ay-obiram.emonsa4.workers.dev/geo-ent.m3u8|Origin=https://obiramtvlive.pages.dev&Referer=https://obiramtvlive.pages.dev/
 #EXTINF:-1 tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_bf2a332556cb4c5da9861e7b981aac1d_playmist_islam.jpg"  group-title="MY BC",Islam TV
 https://ay-obiram.emonsa4.workers.dev/islam-tv.m3u8|Origin=https://obiramtvlive.pages.dev&Referer=https://obiramtvlive.pages.dev/
-#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/JNQA_58BalKyvLQIhiVD/posters/11e764bf-7969-4dcb-a94c-937a3bde2a7f.png"  group-title="Candy",Saudi Sunnah
-https://toffee-obiramtv.emonsa4.workers.dev/saudi-sunnah.m3u8|Origin=https://obiramtvlive.pages.dev&Referer=https://obiramtvlive.pages.dev/
 #EXTINF:-1 tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-04-09/images_db7e2ba86e75cc789ccffacd59521127_playmist_oman_sports_tv_hd400x400.jpg"  group-title="MY BC",Oman Sports TV HD
 https://ay-obiram.emonsa4.workers.dev/oman-sports-tv-hd.m3u8|Origin=https://obiramtvlive.pages.dev&Referer=https://obiramtvlive.pages.dev/
-#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/FdT9_p8BalKyvLQIpCUP/posters/6b39f2c6-6fe8-4720-a986-379e09968b5b.png"  group-title="Candy",Saudi Quran
-https://toffee-obiramtv.emonsa4.workers.dev/saudi-quran.m3u8|Origin=https://obiramtvlive.pages.dev&Referer=https://obiramtvlive.pages.dev/
 #EXTINF:-1 tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-14/images_17ed47c6328295747a22ccdc939f9f0c_playmist_quran_400x400.jpg"  group-title="MY BC",Quran
 https://ay-obiram.emonsa4.workers.dev/quran.m3u8|Origin=https://obiramtvlive.pages.dev&Referer=https://obiramtvlive.pages.dev/
 #EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/rYOv_p8BJIOHmUelrnXh/posters/d537453f-7e5b-45f3-9b52-42f6f65950c8.png"  group-title="Candy",Channel News Asia
@@ -701,12 +679,6 @@ https://toffee-obiramtv.emonsa4.workers.dev/hum-sitaray.m3u8|Origin=https://obir
 https://toffee-obiramtv.emonsa4.workers.dev/sony-entertainment-television-hd.m3u8|Origin=https://obiramtvlive.pages.dev&Referer=https://obiramtvlive.pages.dev/
 #EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/ES55-JQBv9knK3AHNDWC/posters/13411be9-62b9-4a99-a062-b6e91dfb1099.webp"  group-title="Candy",Sony SAB HD
 https://toffee-obiramtv.emonsa4.workers.dev/sony-sab-hd.m3u8|Origin=https://obiramtvlive.pages.dev&Referer=https://obiramtvlive.pages.dev/
-#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/Ai51-JQBv9knK3AH_jWs/posters/663e52a6-1a9f-4458-b4aa-7c03d84972f1.webp"  group-title="Candy",Sony MAX HD
-https://toffee-obiramtv.emonsa4.workers.dev/sony-max-hd.m3u8|Origin=https://obiramtvlive.pages.dev&Referer=https://obiramtvlive.pages.dev/
-#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/Ay52-JQBv9knK3AHFDWt/posters/00afb30b-3c19-4c4c-abd8-891db94e4767.webp"  group-title="Candy",Sony MAX
-https://toffee-obiramtv.emonsa4.workers.dev/sony-max.m3u8|Origin=https://obiramtvlive.pages.dev&Referer=https://obiramtvlive.pages.dev/
-#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/Ly6C-JQBv9knK3AHOjXt/posters/252e64ca-8d99-46e7-a951-e10c1703c11d.webp"  group-title="Candy",Sony PIX HD
-https://toffee-obiramtv.emonsa4.workers.dev/sony-pix-hd.m3u8|Origin=https://obiramtvlive.pages.dev&Referer=https://obiramtvlive.pages.dev/
 #EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/PC6F-JQBv9knK3AHlTUO/posters/fb0243ba-39a0-4101-a78c-c197be550c6c.webp"  group-title="Candy",B4U Movies APAC
 https://toffee-obiramtv.emonsa4.workers.dev/b4u-movies-apac.m3u8|Origin=https://obiramtvlive.pages.dev&Referer=https://obiramtvlive.pages.dev/
 #EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/OnSlPJYBcqxnFHJB6lFX/posters/d9ccb2a6-227f-4a41-8714-efaddab5cf5e.png"  group-title="Candy",Zee Bollywood
@@ -715,11 +687,11 @@ https://toffee-obiramtv.emonsa4.workers.dev/zee-bollywood.m3u8|Origin=https://ob
 undefined
 #EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/F9UM56ABalKyvLQIr9B1/posters/26081e64-671e-44a8-95ba-a692bfaae49c.jpeg"  group-title="Candy",AWSN TV
 https://toffee-obiramtv.emonsa4.workers.dev/awsn-tv.m3u8|Origin=https://obiramtvlive.pages.dev&Referer=https://obiramtvlive.pages.dev/
-#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/itdbVKEBalKyvLQI94RR/posters/b3009fc9-d1c5-46be-b33d-f90acc2e929e.png"  group-title="Candy",SAFF Live 1
+#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/itdbVKEBalKyvLQI94RR/posters/0a425276-4456-4455-b03a-e722d9e808aa.png"  group-title="Candy",SAFF Live 1
 https://toffee-obiramtv.emonsa4.workers.dev/saff-live-1.m3u8|Origin=https://obiramtvlive.pages.dev&Referer=https://obiramtvlive.pages.dev/
 #EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/7S6j-JQBv9knK3AHbzXC/posters/0973097c-bc5c-4b28-aaca-f04d6f6cb5e2.webp"  group-title="Candy",TLC HD
 https://toffee-obiramtv.emonsa4.workers.dev/tlc-hd.m3u8|Origin=https://obiramtvlive.pages.dev&Referer=https://obiramtvlive.pages.dev/
-#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/9dijmqEBalKyvLQIIAFj/posters/b03c4129-d940-4ffd-92b6-d78924196d8b.png"  group-title="Candy",SAFF Live 2
+#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/9dijmqEBalKyvLQIIAFj/posters/0efcb1c4-0ae9-4648-bedb-1a1f97f3ad54.png"  group-title="Candy",SAFF Live 2
 https://toffee-obiramtv.emonsa4.workers.dev/saff-live-2.m3u8|Origin=https://obiramtvlive.pages.dev&Referer=https://obiramtvlive.pages.dev/
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mV3bdZvn/images-3.png"  group-title="MY BC",WILLOW SPORTS
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -1609,7 +1581,7 @@ https://bintangstreaming.my.id/connect/index.m3u8?channel=epl7&type=m3u8|Origin=
 https://bintangstreaming.my.id/connect/index.m3u8?channel=epl6&type=m3u8|Origin=https://obiramtvlive.pages.dev&Referer=https://obiramtvlive.pages.dev/
 #EXTINF:-1 tvg-logo="https://cdn.mos.cms.futurecdn.net/YfcLFQhjH3dBhA2tGqs8Qf.jpg"  group-title="MY BC",EPL 3
 https://bintangstreaming.my.id/connect/index.m3u8?channel=epl8&type=m3u8|Origin=https://obiramtvlive.pages.dev&Referer=https://obiramtvlive.pages.dev/
-#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/I4fIpqEBJIOHmUelirBF/posters/da8ffef4-f109-4dcc-a430-8020a21b81ce.png"  group-title="Candy",SAFF Live 3 Bangla
+#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/I4fIpqEBJIOHmUelirBF/posters/9ee7c679-a4e3-4725-90f4-69f5d2c3560a.png"  group-title="Candy",SAFF Live 3 Bangla
 https://toffee-obiramtv.emonsa4.workers.dev/saff-live-3-bangla.m3u8|Origin=https://obiramtvlive.pages.dev&Referer=https://obiramtvlive.pages.dev/
-#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/JdjLpqEBalKyvLQIrDPD/posters/b47fbf13-ad17-4e15-923e-8e2bc55e2a97.png"  group-title="Candy",SAFF Live 4 Bangla
+#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/JdjLpqEBalKyvLQIrDPD/posters/c10ba186-b4d2-4818-97fb-4c0b181690e6.png"  group-title="Candy",SAFF Live 4 Bangla
 https://toffee-obiramtv.emonsa4.workers.dev/saff-live-4-bangla.m3u8|Origin=https://obiramtvlive.pages.dev&Referer=https://obiramtvlive.pages.dev/

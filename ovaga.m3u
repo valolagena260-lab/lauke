@@ -1585,3 +1585,5 @@ https://bintangstreaming.my.id/connect/index.m3u8?channel=epl8&type=m3u8|Origin=
 https://toffee-obiramtv.emonsa4.workers.dev/saff-live-3-bangla.m3u8|Origin=https://obiramtvlive.pages.dev&Referer=https://obiramtvlive.pages.dev/
 #EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/JdjLpqEBalKyvLQIrDPD/posters/c10ba186-b4d2-4818-97fb-4c0b181690e6.png"  group-title="Candy",SAFF Live 4 Bangla
 https://toffee-obiramtv.emonsa4.workers.dev/saff-live-4-bangla.m3u8|Origin=https://obiramtvlive.pages.dev&Referer=https://obiramtvlive.pages.dev/
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/d/1iM4PZ4Ra90vtIsfQVlzS3-MKbe07U27q" group-title="MY BC",undefined
+undefined

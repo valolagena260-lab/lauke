@@ -132,6 +132,11 @@ https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starjalsha.smil/chunklist_b19
 #EXT-X-MEDIA:TYPE=VIDEO,GROUP-ID="group",NAME="Server 7",URI="https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebangla/default/manifest.mpd"
 #EXT-X-MEDIA:TYPE=VIDEO,GROUP-ID="group",NAME="Server 8",URI="https://ay-obiram.emonsa4.workers.dev/zee-bangla.m3u8"
 https://toffee-obiramtv.emonsa4.workers.dev/zee-bangla.m3u8|Origin=https://obiramtvlive.pages.dev&Referer=https://obiramtvlive.pages.dev/
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/star-jalsha.png" group-title="MY BC",Star Jalsha Movies
+#EXT-X-MEDIA:TYPE=VIDEO,GROUP-ID="group",NAME="Server 2",URI="https://livetv.shamon-cable.net:8443/Star-Jalsha/index.m3u8"
+#EXT-X-MEDIA:TYPE=VIDEO,GROUP-ID="group",NAME="Server 3",URI="http://103.135.253.32:8080/STAR-JALSHA-HD/index.m3u8"
+#EXT-X-MEDIA:TYPE=VIDEO,GROUP-ID="group",NAME="Server 4",URI="https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starjalsha.smil/chunklist_b1928000.m3u8"
+http://cdn98.com/play/live.php?extension=ts&mac=00:1A:79:99:54:11&play_token=o1cczsG9wV&stream=225805|Origin=https://obiramtvlive.pages.dev&Referer=https://obiramtvlive.pages.dev/
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/88/2002_Disney_Channel_logo_%28Alt%29.svg" group-title="MY BC",DISNEY CHANNEL
 #EXT-X-MEDIA:TYPE=VIDEO,GROUP-ID="group",NAME="Server 2",URI="https://yowaimo.in/Sflex-ArtlPVT0719/DISNEY_CHANNEL.m3u8"
 https://ay-obiram.emonsa4.workers.dev/disney-channel.m3u8|Origin=https://obiramtvlive.pages.dev&Referer=https://obiramtvlive.pages.dev/
@@ -152,7 +157,7 @@ https://ay-obiram.emonsa4.workers.dev/ibtv-usa.m3u8|Origin=https://obiramtvlive.
 https://ay-obiram.emonsa4.workers.dev/iqra-bangla.m3u8|Origin=https://obiramtvlive.pages.dev&Referer=https://obiramtvlive.pages.dev/
 #EXTINF:-1 tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-14/images_6b500d2d4c6979f37f2854565a68bcf0_playmist_sony_aath_logowine.jpg" group-title="MY BC",Sony AATH
 #EXT-X-MEDIA:TYPE=VIDEO,GROUP-ID="group",NAME="Server 2",URI="https://toffee-obiramtv.emonsa4.workers.dev/sony-aath.m3u8"
-https://ay-obiram.emonsa4.workers.dev/sony-aath.m3u8|Origin=https://obiramtvlive.pages.dev&Referer=https://obiramtvlive.pages.dev/
+https://toffee-obiramtv.emonsa4.workers.dev/sony-aath.m3u8|Origin=https://obiramtvlive.pages.dev&Referer=https://obiramtvlive.pages.dev/
 #EXTINF:-1 tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_b8b896039b6eb685a11aab0b7b4a33d3_playmist_madani_tv_400x400.jpg"  group-title="MY BC",MADANI TV
 https://ay-obiram.emonsa4.workers.dev/madani-tv.m3u8|Origin=https://obiramtvlive.pages.dev&Referer=https://obiramtvlive.pages.dev/
 #EXTINF:-1 tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_7c80896efca107d25ab23c2582679aad_playmist_millennium_tv_400x400.jpg"  group-title="MY BC",Millennium TV

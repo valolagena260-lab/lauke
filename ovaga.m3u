@@ -143,8 +143,8 @@ https://ay-obiram.emonsa4.workers.dev/disney-channel.m3u8|Origin=https://obiramt
 #KODIPROP:inputstream.adaptive.license_key=d4c6604fb8c9408daf2cb4b2bae7b580:18841ed6e04091e06b6f7b2b4aa86794
 #EXT-X-MEDIA:TYPE=VIDEO,GROUP-ID="group",NAME="Server 2",URI="https://ay-obiram.emonsa4.workers.dev/zee-bangla-sonar.m3u8"
 https://toffee-obiramtv.emonsa4.workers.dev/zee-bangla-cinema.m3u8|Origin=https://obiramtvlive.pages.dev&Referer=https://obiramtvlive.pages.dev/
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/saemon068/obiramtv/refs/heads/main/IMG-20261107-WA0000.jpg" group-title="MY BC",SAMI TV
-https://bdix.ottking.top:8082/Sami-TV/video.m3u8?token=Sami-TV|Origin=https://obiramtvlive.pages.dev&Referer=https://obiramtvlive.pages.dev/
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/d/1iM4PZ4Ra90vtIsfQVlzS3-MKbe07U27q" group-title="MY BC",undefined
+undefined
 #EXTINF:-1 tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-26/images_9b7bab426198d5e39dea4b494cad717b_playmist_channel52.jpg"  group-title="MY BC",Channel 52
 https://ay-obiram.emonsa4.workers.dev/channel-52.m3u8|Origin=https://obiramtvlive.pages.dev&Referer=https://obiramtvlive.pages.dev/
 #EXTINF:-1 tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-06-24/30554e50000b538aef52a9181052af56.jpg"  group-title="MY BC",Drama 24

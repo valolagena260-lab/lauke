@@ -13,9 +13,8 @@ https://ay-obiram.emonsa4.workers.dev/btv-news.m3u8|Origin=https://obiramtvlive.
 #EXTINF:-1 tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-13/images_8b38d691dfaf072e6c964dea814a44ba_playmist_t_sports_hd400x400.jpg"  group-title="MY BC",T Sports HD
 #EXT-X-MEDIA:TYPE=VIDEO,GROUP-ID="group",NAME="Server 2",URI="https://pull.niues.live/live/stream-235232_lhd.m3u8"
 #EXT-X-MEDIA:TYPE=VIDEO,GROUP-ID="group",NAME="Server 3",URI="http://server1.ziboplay.co/T-SPORRTS-HD/index.m3u8?token=AKASH"
-#EXT-X-MEDIA:TYPE=VIDEO,GROUP-ID="group",NAME="NPL",URI="https://livetv.shamon-cable.net:8443/Star-select-2/index.m3u8"
-#EXT-X-MEDIA:TYPE=VIDEO,GROUP-ID="group",NAME="Server 5",URI="https://flussonic.defineatoz.com/TSports2/tracks-v1a1/mono.m3u8"
-#EXT-X-MEDIA:TYPE=VIDEO,GROUP-ID="group",NAME="Server 6",URI="https://mycoffeetime.net/play/tSDRdsaoGGQ2qYgRPDEe9q-qMIzoahbJArH3W3vOiEaB97nXMpWmLb0Ts759Tjsp/m3u8"
+#EXT-X-MEDIA:TYPE=VIDEO,GROUP-ID="group",NAME="Server 4",URI="https://flussonic.defineatoz.com/TSports2/tracks-v1a1/mono.m3u8"
+#EXT-X-MEDIA:TYPE=VIDEO,GROUP-ID="group",NAME="Server 5",URI="https://mycoffeetime.net/play/tSDRdsaoGGQ2qYgRPDEe9q-qMIzoahbJArH3W3vOiEaB97nXMpWmLb0Ts759Tjsp/m3u8"
 https://ay-obiram.emonsa4.workers.dev/t-sports-hd.m3u8|Origin=https://obiramtvlive.pages.dev&Referer=https://obiramtvlive.pages.dev/
 #EXTINF:-1 tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-06-24/3a36a406fcc9616cd0b32514bb29eb36.jpg" group-title="MY BC",ATN Bangla
 #EXT-X-MEDIA:TYPE=VIDEO,GROUP-ID="group",NAME="Server 2",URI="https://toffee-obiramtv.emonsa4.workers.dev/atn-bangla.m3u8"
